@@ -38,7 +38,6 @@ And by grouping identical board states across games, we can analyze:
 - Strategic tendencies based on player rating or opening type
 This allows the model to build a probability-weighted map of likely responses and their effectiveness
 
-
 # But Is It Really That Simple?
 Not quite. While this approach mimics human decision-making, modern models like AlphaZero go further. They don’t just learn from human games—they play against themselves, exploring new strategies through trial and error.
 They learn things like:
