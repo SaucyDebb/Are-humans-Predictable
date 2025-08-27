@@ -44,6 +44,7 @@ Not quite. While this approach mimics human decision-making, modern models like 
 They learn things like:
 - “When I prioritize king safety, I tend to win.”
 - “When I push g4 in this pawn structure, I gain attacking chances.”
+
 This kind of reinforcement learning allows the model to discover strategic value beyond human intuition. It’s not just copying—it’s learning.
 Kind of like us, really. We play, we lose, we adapt. The difference?
 The model processes thousands of games in seconds, refining its instincts faster than our brains ever could.
