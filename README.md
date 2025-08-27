@@ -19,7 +19,7 @@ Conceptually, it mirrors what Friday achieved: real-time analysis and strategic 
 # So, What Data Is the Model Trained On
 The model is trained using Lichess’s open database, which provides millions of chess games in PGN (Portable Game Notation) format.
 
-# PGN includes 
+# What are the Key Elements?
 While PGN files contain a wide range of metadata, for this project we focus on the elements most relevant to strategic prediction:
 - Board state at each move (implicitly derived from move history)
 - Move taken (in algebraic notation)
