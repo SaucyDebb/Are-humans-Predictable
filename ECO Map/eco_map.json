@@ -1,2502 +1,2497 @@
 [
   {
-    "ECO code":"A00",
-    "Opening":"Uncommon Opening",
-    "Moves":"1 g4, a3, h3, etc."
-  },
-  {
-    "ECO code":"A01",
+    "ECO":"A01",
     "Opening":"Nimzovich-Larsen Attack",
     "Moves":"1 b3"
   },
   {
-    "ECO code":"A02",
+    "ECO":"A02",
     "Opening":"Bird's Opening",
     "Moves":"1 f4"
   },
   {
-    "ECO code":"A03",
+    "ECO":"A03",
     "Opening":"Bird's Opening",
     "Moves":"1 f4 d5"
   },
   {
-    "ECO code":"A04",
+    "ECO":"A04",
     "Opening":"Reti Opening",
     "Moves":"1 Nf3"
   },
   {
-    "ECO code":"A05",
+    "ECO":"A05",
     "Opening":"Reti Opening",
     "Moves":"1 Nf3 Nf6"
   },
   {
-    "ECO code":"A06",
+    "ECO":"A06",
     "Opening":"Reti Opening",
     "Moves":"1 Nf3 d5"
   },
   {
-    "ECO code":"A07",
+    "ECO":"A07",
     "Opening":"King's Indian Attack",
     "Moves":"1 Nf3 d5 2 g3"
   },
   {
-    "ECO code":"A08",
+    "ECO":"A08",
     "Opening":"King's Indian Attack",
     "Moves":"1 Nf3 d5 2 g3 c5 3 Bg2"
   },
   {
-    "ECO code":"A09",
+    "ECO":"A09",
     "Opening":"Reti Opening",
     "Moves":"1 Nf3 d5 2 c4"
   },
   {
-    "ECO code":"A10",
+    "ECO":"A10",
     "Opening":"English",
     "Moves":"1 c4"
   },
   {
-    "ECO code":"A11",
-    "Opening":"English, Caro-Kann Defensive System",
+    "ECO":"A11",
+    "Opening":"English - Caro-Kann Defensive System",
     "Moves":"1 c4 c6"
   },
   {
-    "ECO code":"A12",
+    "ECO":"A12",
     "Opening":"English with b3",
     "Moves":"1 c4 c6 2 Nf3 d5 3 b3"
   },
   {
-    "ECO code":"A13",
+    "ECO":"A13",
     "Opening":"English",
     "Moves":"1 c4 e6"
   },
   {
-    "ECO code":"A14",
+    "ECO":"A14",
     "Opening":"English",
     "Moves":"1 c4 e6 2 Nf3 d5 3 g3 Nf6 4 Bg2 Be7 5 O-O"
   },
   {
-    "ECO code":"A15",
+    "ECO":"A15",
     "Opening":"English",
     "Moves":"1 c4 Nf6"
   },
   {
-    "ECO code":"A16",
+    "ECO":"A16",
     "Opening":"English",
     "Moves":"1 c4 Nf6 2 Nc3"
   },
   {
-    "ECO code":"A17",
+    "ECO":"A17",
     "Opening":"English",
     "Moves":"1 c4 Nf6 2 Nc3 e6"
   },
   {
-    "ECO code":"A18",
-    "Opening":"English, Mikenas-Carls",
+    "ECO":"A18",
+    "Opening":"English - Mikenas-Carls",
     "Moves":"1 c4 Nf6 2 Nc3 e6 3 e4"
   },
   {
-    "ECO code":"A19",
-    "Opening":"English, Mikenas-Carls, Sicilian Variation",
+    "ECO":"A19",
+    "Opening":"English - Mikenas-Carls - Sicilian Variation",
     "Moves":"1 c4 Nf6 2 Nc3 e6 3 e4 c5"
   },
   {
-    "ECO code":"A20",
+    "ECO":"A20",
     "Opening":"English",
     "Moves":"1 c4 e5"
   },
   {
-    "ECO code":"A21",
+    "ECO":"A21",
     "Opening":"English",
     "Moves":"1 c4 e5 2 Nc3"
   },
   {
-    "ECO code":"A22",
+    "ECO":"A22",
     "Opening":"English",
     "Moves":"1 c4 e5 2 Nc3 Nf6"
   },
   {
-    "ECO code":"A23",
-    "Opening":"English, Bremen System, Keres Variation",
+    "ECO":"A23",
+    "Opening":"English - Bremen System - Keres Variation",
     "Moves":"1 c4 e5 2 Nc3 Nf6 3 g3 c6"
   },
   {
-    "ECO code":"A24",
-    "Opening":"English, Bremen System with ...g6",
+    "ECO":"A24",
+    "Opening":"English - Bremen System with ...g6",
     "Moves":"1 c4 e5 2 Nc3 Nf6 3 g3 g6"
   },
   {
-    "ECO code":"A25",
+    "ECO":"A25",
     "Opening":"English",
     "Moves":"1 c4 e5 2 Nc3 Nc6"
   },
   {
-    "ECO code":"A26",
+    "ECO":"A26",
     "Opening":"English",
     "Moves":"1 c4 e5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6"
   },
   {
-    "ECO code":"A27",
-    "Opening":"English, Three Knights System",
+    "ECO":"A27",
+    "Opening":"English - Three Knights System",
     "Moves":"1 c4 e5 2 Nc3 Nc6 3 Nf3"
   },
   {
-    "ECO code":"A28",
+    "ECO":"A28",
     "Opening":"English",
     "Moves":"1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6"
   },
   {
-    "ECO code":"A29",
-    "Opening":"English, Four Knights, Kingside Fianchetto",
+    "ECO":"A29",
+    "Opening":"English - Four Knights - Kingside Fianchetto",
     "Moves":"1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6 4 g3"
   },
   {
-    "ECO code":"A30",
-    "Opening":"English, Symmetrical",
+    "ECO":"A30",
+    "Opening":"English - Symmetrical",
     "Moves":"1 c4 c5"
   },
   {
-    "ECO code":"A31",
-    "Opening":"English, Symmetrical, Benoni Formation",
+    "ECO":"A31",
+    "Opening":"English - Symmetrical - Benoni Formation",
     "Moves":"1 c4 c5 2 Nf3 Nf6 3 d4"
   },
   {
-    "ECO code":"A32",
-    "Opening":"English, Symmetrical Variation",
+    "ECO":"A32",
+    "Opening":"English - Symmetrical Variation",
     "Moves":"1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6"
   },
   {
-    "ECO code":"A33",
-    "Opening":"English, Symmetrical",
+    "ECO":"A33",
+    "Opening":"English - Symmetrical",
     "Moves":"1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6 5 Nc3 Nc6"
   },
   {
-    "ECO code":"A34",
-    "Opening":"English, Symmetrical",
+    "ECO":"A34",
+    "Opening":"English - Symmetrical",
     "Moves":"1 c4 c5 2 Nc3"
   },
   {
-    "ECO code":"A35",
-    "Opening":"English, Symmetrical",
+    "ECO":"A35",
+    "Opening":"English - Symmetrical",
     "Moves":"1 c4 c5 2 Nc3 Nc6"
   },
   {
-    "ECO code":"A36",
+    "ECO":"A36",
     "Opening":"English",
     "Moves":"1 c4 c5 2 Nc3 Nc6 3 g3"
   },
   {
-    "ECO code":"A37",
-    "Opening":"English, Symmetrical",
+    "ECO":"A37",
+    "Opening":"English - Symmetrical",
     "Moves":"1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3"
   },
   {
-    "ECO code":"A38",
-    "Opening":"English, Symmetrical",
+    "ECO":"A38",
+    "Opening":"English - Symmetrical",
     "Moves":"1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6"
   },
   {
-    "ECO code":"A39",
-    "Opening":"English, Symmetrical, Main line with d4",
+    "ECO":"A39",
+    "Opening":"English - Symmetrical - Main line with d4",
     "Moves":"1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6 6 O-O O-O 7 d4"
   },
   {
-    "ECO code":"A40",
+    "ECO":"A40",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4"
   },
   {
-    "ECO code":"A41",
+    "ECO":"A41",
     "Opening":"Queen's Pawn Game (with ...d6)",
     "Moves":"1 d4 d6"
   },
   {
-    "ECO code":"A42",
-    "Opening":"Modern Defense, Averbakh System",
+    "ECO":"A42",
+    "Opening":"Modern Defense - Averbakh System",
     "Moves":"1 d4 d6 2 c4 g6 3 Nc3 Bg7 4 e4"
   },
   {
-    "ECO code":"A43",
+    "ECO":"A43",
     "Opening":"Old Benoni",
     "Moves":"1 d4 c5"
   },
   {
-    "ECO code":"A44",
+    "ECO":"A44",
     "Opening":"Old Benoni Defense",
     "Moves":"1 d4 c5 2 d5 e5"
   },
   {
-    "ECO code":"A45",
+    "ECO":"A45",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 Nf6"
   },
   {
-    "ECO code":"A46",
+    "ECO":"A46",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 Nf6 2 Nf3"
   },
   {
-    "ECO code":"A47",
+    "ECO":"A47",
     "Opening":"Queen's Indian",
     "Moves":"1 d4 Nf6 2 Nf3 b6"
   },
   {
-    "ECO code":"A48",
+    "ECO":"A48",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 Nf3 g6"
   },
   {
-    "ECO code":"A49",
-    "Opening":"King's Indian, Fianchetto without c4",
+    "ECO":"A49",
+    "Opening":"King's Indian - Fianchetto without c4",
     "Moves":"1 d4 Nf6 2 Nf3 g6 3 g3"
   },
   {
-    "ECO code":"A50",
+    "ECO":"A50",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 Nf6 2 c4"
   },
   {
-    "ECO code":"A51",
+    "ECO":"A51",
     "Opening":"Budapest Gambit",
     "Moves":"1 d4 Nf6 2 c4 e5"
   },
   {
-    "ECO code":"A52",
+    "ECO":"A52",
     "Opening":"Budapest Gambit",
     "Moves":"1 d4 Nf6 2 c4 e5 3 dxe5 Ng4"
   },
   {
-    "ECO code":"A53",
+    "ECO":"A53",
     "Opening":"Old Indian",
     "Moves":"1 d4 Nf6 2 c4 d6"
   },
   {
-    "ECO code":"A54",
-    "Opening":"Old Indian, Ukrainian Variation, 4.Nf3",
+    "ECO":"A54",
+    "Opening":"Old Indian - Ukrainian Variation - 4.Nf3",
     "Moves":"1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3"
   },
   {
-    "ECO code":"A55",
-    "Opening":"Old Indian, Main line",
+    "ECO":"A55",
+    "Opening":"Old Indian - Main line",
     "Moves":"1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3 Nbd7 5 e4"
   },
   {
-    "ECO code":"A56",
+    "ECO":"A56",
     "Opening":"Benoni Defense",
     "Moves":"1 d4 Nf6 2 c4 c5"
   },
   {
-    "ECO code":"A57",
+    "ECO":"A57",
     "Opening":"Benko Gambit",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 b5"
   },
   {
-    "ECO code":"A58",
+    "ECO":"A58",
     "Opening":"Benko Gambit",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6"
   },
   {
-    "ECO code":"A59",
+    "ECO":"A59",
     "Opening":"Benko Gambit",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6 6 Nc3 d6 7 e4"
   },
   {
-    "ECO code":"A60",
+    "ECO":"A60",
     "Opening":"Benoni Defense",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6"
   },
   {
-    "ECO code":"A61",
+    "ECO":"A61",
     "Opening":"Benoni",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6"
   },
   {
-    "ECO code":"A62",
-    "Opening":"Benoni, Fianchetto Variation",
+    "ECO":"A62",
+    "Opening":"Benoni - Fianchetto Variation",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O"
   },
   {
-    "ECO code":"A63",
-    "Opening":"Benoni, Fianchetto, 9...Nbd7",
+    "ECO":"A63",
+    "Opening":"Benoni - Fianchetto - 9...Nbd7",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9"
   },
   {
-    "ECO code":"A64",
-    "Opening":"Benoni, Fianchetto, 11...Re8",
+    "ECO":"A64",
+    "Opening":"Benoni - Fianchetto - 11...Re8",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9"
   },
   {
-    "ECO code":"A65",
-    "Opening":"Benoni, 6.e4",
+    "ECO":"A65",
+    "Opening":"Benoni - 6.e4",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4"
   },
   {
-    "ECO code":"A66",
+    "ECO":"A66",
     "Opening":"Benoni",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4"
   },
   {
-    "ECO code":"A67",
-    "Opening":"Benoni, Taimanov Variation",
+    "ECO":"A67",
+    "Opening":"Benoni - Taimanov Variation",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Bb5+"
   },
   {
-    "ECO code":"A68",
-    "Opening":"Benoni, Four Pawns Attack",
+    "ECO":"A68",
+    "Opening":"Benoni - Four Pawns Attack",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O"
   },
   {
-    "ECO code":"A69",
-    "Opening":"Benoni, Four Pawns Attack, Main line",
+    "ECO":"A69",
+    "Opening":"Benoni - Four Pawns Attack - Main line",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O 9"
   },
   {
-    "ECO code":"A70",
-    "Opening":"Benoni, Classical with 7.Nf3",
+    "ECO":"A70",
+    "Opening":"Benoni - Classical with 7.Nf3",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3"
   },
   {
-    "ECO code":"A71",
-    "Opening":"Benoni, Classical, 8.Bg5",
+    "ECO":"A71",
+    "Opening":"Benoni - Classical - 8.Bg5",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Bg5"
   },
   {
-    "ECO code":"A72",
-    "Opening":"Benoni, Classical without 9.O-O",
+    "ECO":"A72",
+    "Opening":"Benoni - Classical without 9.O-O",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O"
   },
   {
-    "ECO code":"A73",
-    "Opening":"Benoni, Classical, 9.O-O",
+    "ECO":"A73",
+    "Opening":"Benoni - Classical - 9.O-O",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
   },
   {
-    "ECO code":"A74",
-    "Opening":"Benoni, Classical, 9...a6, 10.a4",
+    "ECO":"A74",
+    "Opening":"Benoni - Classical - 9...a6 - 10.a4",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
   },
   {
-    "ECO code":"A75",
-    "Opening":"Benoni, Classical with ...a6 and 10...Bg4",
+    "ECO":"A75",
+    "Opening":"Benoni - Classical with ...a6 and 10...Bg4",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
   },
   {
-    "ECO code":"A76",
-    "Opening":"Benoni, Classical, 9...Re8",
+    "ECO":"A76",
+    "Opening":"Benoni - Classical - 9...Re8",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
   },
   {
-    "ECO code":"A77",
-    "Opening":"Benoni, Classical, 9...Re8, 10.Nd2",
+    "ECO":"A77",
+    "Opening":"Benoni - Classical - 9...Re8 - 10.Nd2",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
   },
   {
-    "ECO code":"A78",
-    "Opening":"Benoni, Classical with ...Re8 and ...Na6",
+    "ECO":"A78",
+    "Opening":"Benoni - Classical with ...Re8 and ...Na6",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
   },
   {
-    "ECO code":"A79",
-    "Opening":"Benoni, Classical, 11.f3",
+    "ECO":"A79",
+    "Opening":"Benoni - Classical - 11.f3",
     "Moves":"1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9"
   },
   {
-    "ECO code":"A80",
+    "ECO":"A80",
     "Opening":"Dutch",
     "Moves":"1 d4 f5"
   },
   {
-    "ECO code":"A81",
+    "ECO":"A81",
     "Opening":"Dutch",
     "Moves":"1 d4 f5 2 g3"
   },
   {
-    "ECO code":"A82",
-    "Opening":"Dutch, Staunton Gambit",
+    "ECO":"A82",
+    "Opening":"Dutch - Staunton Gambit",
     "Moves":"1 d4 f5 2 e4"
   },
   {
-    "ECO code":"A83",
-    "Opening":"Dutch, Staunton Gambit",
+    "ECO":"A83",
+    "Opening":"Dutch - Staunton Gambit",
     "Moves":"1 d4 f5 2 e4 fxe4 3 Nc3 Nf6 4 Bg5"
   },
   {
-    "ECO code":"A84",
+    "ECO":"A84",
     "Opening":"Dutch",
     "Moves":"1 d4 f5 2 c4"
   },
   {
-    "ECO code":"A85",
-    "Opening":"Dutch, with c4 & Nc3",
+    "ECO":"A85",
+    "Opening":"Dutch - with c4 & Nc3",
     "Moves":"1 d4 f5 2 c4 Nf6 3 Nc3"
   },
   {
-    "ECO code":"A86",
+    "ECO":"A86",
     "Opening":"Dutch",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3"
   },
   {
-    "ECO code":"A87",
-    "Opening":"Dutch, Leningrad, Main Variation",
+    "ECO":"A87",
+    "Opening":"Dutch - Leningrad - Main Variation",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3"
   },
   {
-    "ECO code":"A88",
-    "Opening":"Dutch, Leningrad, Main Variation with c6",
+    "ECO":"A88",
+    "Opening":"Dutch - Leningrad - Main Variation with c6",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 c6"
   },
   {
-    "ECO code":"A89",
-    "Opening":"Dutch, Leningrad, Main Variation with Nc6",
+    "ECO":"A89",
+    "Opening":"Dutch - Leningrad - Main Variation with Nc6",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 Nc6"
   },
   {
-    "ECO code":"A90",
+    "ECO":"A90",
     "Opening":"Dutch",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2"
   },
   {
-    "ECO code":"A91",
+    "ECO":"A91",
     "Opening":"Dutch Defense",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7"
   },
   {
-    "ECO code":"A92",
+    "ECO":"A92",
     "Opening":"Dutch",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O"
   },
   {
-    "ECO code":"A93",
-    "Opening":"Dutch, Stonewall, Botvinnik Variation",
+    "ECO":"A93",
+    "Opening":"Dutch - Stonewall - Botvinnik Variation",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3"
   },
   {
-    "ECO code":"A94",
-    "Opening":"Dutch, Stonewall with Ba3",
+    "ECO":"A94",
+    "Opening":"Dutch - Stonewall with Ba3",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3 c6 8 Ba3"
   },
   {
-    "ECO code":"A95",
-    "Opening":"Dutch, Stonewall",
+    "ECO":"A95",
+    "Opening":"Dutch - Stonewall",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 Nc3 c6"
   },
   {
-    "ECO code":"A96",
-    "Opening":"Dutch, Classical Variation",
+    "ECO":"A96",
+    "Opening":"Dutch - Classical Variation",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6"
   },
   {
-    "ECO code":"A97",
-    "Opening":"Dutch, Ilyin-Genevsky",
+    "ECO":"A97",
+    "Opening":"Dutch - Ilyin-Genevsky",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8"
   },
   {
-    "ECO code":"A98",
-    "Opening":"Dutch, Ilyin-Genevsky Variation with Qc2",
+    "ECO":"A98",
+    "Opening":"Dutch - Ilyin-Genevsky Variation with Qc2",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 Qc2"
   },
   {
-    "ECO code":"A99",
-    "Opening":"Dutch, Ilyin-Genevsky Variation with b3",
+    "ECO":"A99",
+    "Opening":"Dutch - Ilyin-Genevsky Variation with b3",
     "Moves":"1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 b3"
   },
   {
-    "ECO code":"B00",
+    "ECO":"B00",
     "Opening":"Uncommon King's Pawn Opening",
-    "Moves":"1.00E+04"
+    "Moves":"1 e4"
   },
   {
-    "ECO code":"B01",
+    "ECO":"B01",
     "Opening":"Scandinavian",
     "Moves":"1 e4 d5"
   },
   {
-    "ECO code":"B02",
+    "ECO":"B02",
     "Opening":"Alekhine's Defense",
     "Moves":"1 e4 Nf6"
   },
   {
-    "ECO code":"B03",
+    "ECO":"B03",
     "Opening":"Alekhine's Defense",
     "Moves":"1 e4 Nf6 2 e5 Nd5 3 d4"
   },
   {
-    "ECO code":"B04",
-    "Opening":"Alekhine's Defense, Modern",
+    "ECO":"B04",
+    "Opening":"Alekhine's Defense - Modern",
     "Moves":"1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3"
   },
   {
-    "ECO code":"B05",
-    "Opening":"Alekhine's Defense, Modern",
+    "ECO":"B05",
+    "Opening":"Alekhine's Defense - Modern",
     "Moves":"1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3 Bg4"
   },
   {
-    "ECO code":"B06",
+    "ECO":"B06",
     "Opening":"Robatsch",
     "Moves":"1 e4 g6"
   },
   {
-    "ECO code":"B07",
+    "ECO":"B07",
     "Opening":"Pirc",
     "Moves":"1 e4 d6 2 d4 Nf6"
   },
   {
-    "ECO code":"B08",
-    "Opening":"Pirc, Classical",
+    "ECO":"B08",
+    "Opening":"Pirc - Classical",
     "Moves":"1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 Nf3"
   },
   {
-    "ECO code":"B09",
-    "Opening":"Pirc, Austrian Attack",
+    "ECO":"B09",
+    "Opening":"Pirc - Austrian Attack",
     "Moves":"1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 f4"
   },
   {
-    "ECO code":"B10",
+    "ECO":"B10",
     "Opening":"Caro-Kann",
     "Moves":"1 e4 c6"
   },
   {
-    "ECO code":"B11",
-    "Opening":"Caro-Kann, Two Knights, 3...Bg4",
+    "ECO":"B11",
+    "Opening":"Caro-Kann - Two Knights - 3...Bg4",
     "Moves":"1 e4 c6 2 Nc3 d5 3 Nf3 Bg4"
   },
   {
-    "ECO code":"B12",
+    "ECO":"B12",
     "Opening":"Caro-Kann Defense",
     "Moves":"1 e4 c6 2 d4"
   },
   {
-    "ECO code":"B13",
-    "Opening":"Caro-Kann, Exchange",
+    "ECO":"B13",
+    "Opening":"Caro-Kann - Exchange",
     "Moves":"1 e4 c6 2 d4 d5 3 exd5 cxd5"
   },
   {
-    "ECO code":"B14",
-    "Opening":"Caro-Kann, Panov-Botvinnik Attack",
+    "ECO":"B14",
+    "Opening":"Caro-Kann - Panov-Botvinnik Attack",
     "Moves":"1 e4 c6 2 d4 d5 3 exd5 cxd5 4 c4 Nf6 5 Nc3 e6"
   },
   {
-    "ECO code":"B15",
+    "ECO":"B15",
     "Opening":"Caro-Kann",
     "Moves":"1 e4 c6 2 d4 d5 3 Nc3"
   },
   {
-    "ECO code":"B16",
-    "Opening":"Caro-Kann, Bronstein-Larsen Variation",
+    "ECO":"B16",
+    "Opening":"Caro-Kann - Bronstein-Larsen Variation",
     "Moves":"1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nf6 5 Nxf6+ gxf6"
   },
   {
-    "ECO code":"B17",
-    "Opening":"Caro-Kann, Steinitz Variation",
+    "ECO":"B17",
+    "Opening":"Caro-Kann - Steinitz Variation",
     "Moves":"1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nd7"
   },
   {
-    "ECO code":"B18",
-    "Opening":"Caro-Kann, Classical",
+    "ECO":"B18",
+    "Opening":"Caro-Kann - Classical",
     "Moves":"1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5"
   },
   {
-    "ECO code":"B19",
-    "Opening":"Caro-Kann, Classical",
+    "ECO":"B19",
+    "Opening":"Caro-Kann - Classical",
     "Moves":"1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6 6 h4 h6 7 Nf3 Nd7"
   },
   {
-    "ECO code":"B20",
+    "ECO":"B20",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5"
   },
   {
-    "ECO code":"B21",
-    "Opening":"Sicilian, 2.f4 and 2.d4",
+    "ECO":"B21",
+    "Opening":"Sicilian - 2.f4 and 2.d4",
     "Moves":"1 e4 c5 2 f4"
   },
   {
-    "ECO code":"B22",
-    "Opening":"Sicilian, Alapin",
+    "ECO":"B22",
+    "Opening":"Sicilian - Alapin",
     "Moves":"1 e4 c5 2 c3"
   },
   {
-    "ECO code":"B23",
-    "Opening":"Sicilian, Closed",
+    "ECO":"B23",
+    "Opening":"Sicilian - Closed",
     "Moves":"1 e4 c5 2 Nc3"
   },
   {
-    "ECO code":"B24",
-    "Opening":"Sicilian, Closed",
+    "ECO":"B24",
+    "Opening":"Sicilian - Closed",
     "Moves":"1 e4 c5 2 Nc3 Nc6 3 g3"
   },
   {
-    "ECO code":"B25",
-    "Opening":"Sicilian, Closed",
+    "ECO":"B25",
+    "Opening":"Sicilian - Closed",
     "Moves":"1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6"
   },
   {
-    "ECO code":"B26",
-    "Opening":"Sicilian, Closed, 6.Be3",
+    "ECO":"B26",
+    "Opening":"Sicilian - Closed - 6.Be3",
     "Moves":"1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6 6 Be3"
   },
   {
-    "ECO code":"B27",
+    "ECO":"B27",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3"
   },
   {
-    "ECO code":"B28",
-    "Opening":"Sicilian, O'Kelly Variation",
+    "ECO":"B28",
+    "Opening":"Sicilian - O'Kelly Variation",
     "Moves":"1 e4 c5 2 Nf3 a6"
   },
   {
-    "ECO code":"B29",
-    "Opening":"Sicilian, Nimzovich-Rubinstein",
+    "ECO":"B29",
+    "Opening":"Sicilian - Nimzovich-Rubinstein",
     "Moves":"1 e4 c5 2 Nf3 Nf6"
   },
   {
-    "ECO code":"B30",
+    "ECO":"B30",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 Nc6"
   },
   {
-    "ECO code":"B31",
-    "Opening":"Sicilian, Rossolimo Variation",
+    "ECO":"B31",
+    "Opening":"Sicilian - Rossolimo Variation",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 Bb5 g6"
   },
   {
-    "ECO code":"B32",
+    "ECO":"B32",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 e5"
   },
   {
-    "ECO code":"B33",
+    "ECO":"B33",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4"
   },
   {
-    "ECO code":"B34",
-    "Opening":"Sicilian, Accelerated Fianchetto",
+    "ECO":"B34",
+    "Opening":"Sicilian - Accelerated Fianchetto",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nxc6"
   },
   {
-    "ECO code":"B35",
-    "Opening":"Sicilian, Accelerated Fianchetto, Modern Variation with Bc4",
+    "ECO":"B35",
+    "Opening":"Sicilian - Accelerated Fianchetto - Modern Variation with Bc4",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3 Bg7 6 Be3 Nf6 7 Bc4"
   },
   {
-    "ECO code":"B36",
-    "Opening":"Sicilian, Accelerated Fianchetto",
+    "ECO":"B36",
+    "Opening":"Sicilian - Accelerated Fianchetto",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4"
   },
   {
-    "ECO code":"B37",
-    "Opening":"Sicilian, Accelerated Fianchetto",
+    "ECO":"B37",
+    "Opening":"Sicilian - Accelerated Fianchetto",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7"
   },
   {
-    "ECO code":"B38",
-    "Opening":"Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3",
+    "ECO":"B38",
+    "Opening":"Sicilian - Accelerated Fianchetto - Maroczy Bind - 6.Be3",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3"
   },
   {
-    "ECO code":"B39",
-    "Opening":"Sicilian, Accelerated Fianchetto, Breyer Variation",
+    "ECO":"B39",
+    "Opening":"Sicilian - Accelerated Fianchetto - Breyer Variation",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3 Nf6 7 Nc3 Ng4"
   },
   {
-    "ECO code":"B40",
+    "ECO":"B40",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 e6"
   },
   {
-    "ECO code":"B41",
-    "Opening":"Sicilian, Kan",
+    "ECO":"B41",
+    "Opening":"Sicilian - Kan",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6"
   },
   {
-    "ECO code":"B42",
-    "Opening":"Sicilian, Kan",
+    "ECO":"B42",
+    "Opening":"Sicilian - Kan",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Bd3"
   },
   {
-    "ECO code":"B43",
-    "Opening":"Sicilian, Kan, 5.Nc3",
+    "ECO":"B43",
+    "Opening":"Sicilian - Kan - 5.Nc3",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Nc3"
   },
   {
-    "ECO code":"B44",
+    "ECO":"B44",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6"
   },
   {
-    "ECO code":"B45",
-    "Opening":"Sicilian, Taimanov",
+    "ECO":"B45",
+    "Opening":"Sicilian - Taimanov",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3"
   },
   {
-    "ECO code":"B46",
-    "Opening":"Sicilian, Taimanov Variation",
+    "ECO":"B46",
+    "Opening":"Sicilian - Taimanov Variation",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 a6"
   },
   {
-    "ECO code":"B47",
-    "Opening":"Sicilian, Taimanov (Bastrikov) Variation",
+    "ECO":"B47",
+    "Opening":"Sicilian - Taimanov (Bastrikov) Variation",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7"
   },
   {
-    "ECO code":"B48",
-    "Opening":"Sicilian, Taimanov Variation",
+    "ECO":"B48",
+    "Opening":"Sicilian - Taimanov Variation",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3"
   },
   {
-    "ECO code":"B49",
-    "Opening":"Sicilian, Taimanov Variation",
+    "ECO":"B49",
+    "Opening":"Sicilian - Taimanov Variation",
     "Moves":"1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3 a6 7 Be2"
   },
   {
-    "ECO code":"B50",
+    "ECO":"B50",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 d6"
   },
   {
-    "ECO code":"B51",
-    "Opening":"Sicilian, Canal-Sokolsky (Rossolimo) Attack",
+    "ECO":"B51",
+    "Opening":"Sicilian - Canal-Sokolsky (Rossolimo) Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 Bb5+"
   },
   {
-    "ECO code":"B52",
-    "Opening":"Sicilian, Canal-Sokolsky (Rossolimo) Attack",
+    "ECO":"B52",
+    "Opening":"Sicilian - Canal-Sokolsky (Rossolimo) Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 Bb5+ Bd7"
   },
   {
-    "ECO code":"B53",
+    "ECO":"B53",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Qxd4"
   },
   {
-    "ECO code":"B54",
+    "ECO":"B54",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4"
   },
   {
-    "ECO code":"B55",
-    "Opening":"Sicilian, Prins Variation, Venice Attack",
+    "ECO":"B55",
+    "Opening":"Sicilian - Prins Variation - Venice Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 f3 e5 6 Bb5+"
   },
   {
-    "ECO code":"B56",
+    "ECO":"B56",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3"
   },
   {
-    "ECO code":"B57",
+    "ECO":"B57",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bc4"
   },
   {
-    "ECO code":"B58",
+    "ECO":"B58",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2"
   },
   {
-    "ECO code":"B59",
-    "Opening":"Sicilian, Boleslavsky Variation, 7.Nb3",
+    "ECO":"B59",
+    "Opening":"Sicilian - Boleslavsky Variation - 7.Nb3",
     "Moves":"1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2 e5 7 Nb3"
   },
   {
-    "ECO code":"B60",
-    "Opening":"Sicilian, Richter-Rauzer",
+    "ECO":"B60",
+    "Opening":"Sicilian - Richter-Rauzer",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5"
   },
   {
-    "ECO code":"B61",
-    "Opening":"Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2",
+    "ECO":"B61",
+    "Opening":"Sicilian - Richter-Rauzer - Larsen Variation - 7.Qd2",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 Bd7 7 Qd2"
   },
   {
-    "ECO code":"B62",
-    "Opening":"Sicilian, Richter-Rauzer",
+    "ECO":"B62",
+    "Opening":"Sicilian - Richter-Rauzer",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6"
   },
   {
-    "ECO code":"B63",
-    "Opening":"Sicilian, Richter-Rauzer Attack",
+    "ECO":"B63",
+    "Opening":"Sicilian - Richter-Rauzer Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2"
   },
   {
-    "ECO code":"B64",
-    "Opening":"Sicilian, Richter-Rauzer Attack",
+    "ECO":"B64",
+    "Opening":"Sicilian - Richter-Rauzer Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4"
   },
   {
-    "ECO code":"B65",
-    "Opening":"Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4",
+    "ECO":"B65",
+    "Opening":"Sicilian - Richter-Rauzer Attack - 7...Be7 Defense - 9...Nxd4",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4 Nxd4 10 Qxd4"
   },
   {
-    "ECO code":"B66",
-    "Opening":"Sicilian, Richter-Rauzer Attack, 7...a6",
+    "ECO":"B66",
+    "Opening":"Sicilian - Richter-Rauzer Attack - 7...a6",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6"
   },
   {
-    "ECO code":"B67",
-    "Opening":"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7",
+    "ECO":"B67",
+    "Opening":"Sicilian - Richter-Rauzer Attack - 7...a6 Defense - 8...Bd7",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7"
   },
   {
-    "ECO code":"B68",
-    "Opening":"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7",
+    "ECO":"B68",
+    "Opening":"Sicilian - Richter-Rauzer Attack - 7...a6 Defense - 9...Be7",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7"
   },
   {
-    "ECO code":"B69",
-    "Opening":"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6",
+    "ECO":"B69",
+    "Opening":"Sicilian - Richter-Rauzer Attack - 7...a6 Defense - 11.Bxf6",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7 10 Nf3 b5 11 Bxf6"
   },
   {
-    "ECO code":"B70",
-    "Opening":"Sicilian, Dragon Variation",
+    "ECO":"B70",
+    "Opening":"Sicilian - Dragon Variation",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6"
   },
   {
-    "ECO code":"B71",
-    "Opening":"Sicilian, Dragon, Levenfish Variation",
+    "ECO":"B71",
+    "Opening":"Sicilian - Dragon - Levenfish Variation",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 f4"
   },
   {
-    "ECO code":"B72",
-    "Opening":"Sicilian, Dragon",
+    "ECO":"B72",
+    "Opening":"Sicilian - Dragon",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3"
   },
   {
-    "ECO code":"B73",
-    "Opening":"Sicilian, Dragon, Classical",
+    "ECO":"B73",
+    "Opening":"Sicilian - Dragon - Classical",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O"
   },
   {
-    "ECO code":"B74",
-    "Opening":"Sicilian, Dragon, Classical",
+    "ECO":"B74",
+    "Opening":"Sicilian - Dragon - Classical",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O O-O 9 Nb3"
   },
   {
-    "ECO code":"B75",
-    "Opening":"Sicilian, Dragon, Yugoslav Attack",
+    "ECO":"B75",
+    "Opening":"Sicilian - Dragon - Yugoslav Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3"
   },
   {
-    "ECO code":"B76",
-    "Opening":"Sicilian, Dragon, Yugoslav Attack",
+    "ECO":"B76",
+    "Opening":"Sicilian - Dragon - Yugoslav Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O"
   },
   {
-    "ECO code":"B77",
-    "Opening":"Sicilian, Dragon, Yugoslav Attack",
+    "ECO":"B77",
+    "Opening":"Sicilian - Dragon - Yugoslav Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4"
   },
   {
-    "ECO code":"B78",
-    "Opening":"Sicilian, Dragon, Yugoslav Attack, 10.castle long",
+    "ECO":"B78",
+    "Opening":"Sicilian - Dragon - Yugoslav Attack - 10.castle long",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O"
   },
   {
-    "ECO code":"B79",
-    "Opening":"Sicilian, Dragon, Yugoslav Attack, 12.h4",
+    "ECO":"B79",
+    "Opening":"Sicilian - Dragon - Yugoslav Attack - 12.h4",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O Qa5 11 Bb3 Rfc8 12 h4"
   },
   {
-    "ECO code":"B80",
-    "Opening":"Sicilian, Scheveningen",
+    "ECO":"B80",
+    "Opening":"Sicilian - Scheveningen",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6"
   },
   {
-    "ECO code":"B81",
-    "Opening":"Sicilian, Scheveningen, Keres Attack",
+    "ECO":"B81",
+    "Opening":"Sicilian - Scheveningen - Keres Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 g4"
   },
   {
-    "ECO code":"B82",
-    "Opening":"Sicilian, Scheveningen",
+    "ECO":"B82",
+    "Opening":"Sicilian - Scheveningen",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 f4"
   },
   {
-    "ECO code":"B83",
+    "ECO":"B83",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2"
   },
   {
-    "ECO code":"B84",
-    "Opening":"Sicilian, Scheveningen",
+    "ECO":"B84",
+    "Opening":"Sicilian - Scheveningen",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6"
   },
   {
-    "ECO code":"B85",
-    "Opening":"Sicilian, Scheveningen, Classical",
+    "ECO":"B85",
+    "Opening":"Sicilian - Scheveningen - Classical",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6 7 O-O Qc7 8 f4 Nc6"
   },
   {
-    "ECO code":"B86",
-    "Opening":"Sicilian, Fischer-Sozin Attack",
+    "ECO":"B86",
+    "Opening":"Sicilian - Fischer-Sozin Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4"
   },
   {
-    "ECO code":"B87",
-    "Opening":"Sicilian, Fischer-Sozin with ...a6 and ...b5",
+    "ECO":"B87",
+    "Opening":"Sicilian - Fischer-Sozin with ...a6 and ...b5",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 a6 7 Bb3 b5"
   },
   {
-    "ECO code":"B88",
-    "Opening":"Sicilian, Fischer-Sozin Attack",
+    "ECO":"B88",
+    "Opening":"Sicilian - Fischer-Sozin Attack",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6"
   },
   {
-    "ECO code":"B89",
+    "ECO":"B89",
     "Opening":"Sicilian",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6 7 Be3"
   },
   {
-    "ECO code":"B90",
-    "Opening":"Sicilian, Najdorf",
+    "ECO":"B90",
+    "Opening":"Sicilian - Najdorf",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6"
   },
   {
-    "ECO code":"B91",
-    "Opening":"Sicilian, Najdorf, Zagreb (Fianchetto) Variation",
+    "ECO":"B91",
+    "Opening":"Sicilian - Najdorf - Zagreb (Fianchetto) Variation",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 g3"
   },
   {
-    "ECO code":"B92",
-    "Opening":"Sicilian, Najdorf, Opocensky Variation",
+    "ECO":"B92",
+    "Opening":"Sicilian - Najdorf - Opocensky Variation",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Be2"
   },
   {
-    "ECO code":"B93",
-    "Opening":"Sicilian, Najdorf, 6.f4",
+    "ECO":"B93",
+    "Opening":"Sicilian - Najdorf - 6.f4",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 f4"
   },
   {
-    "ECO code":"B94",
-    "Opening":"Sicilian, Najdorf",
+    "ECO":"B94",
+    "Opening":"Sicilian - Najdorf",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5"
   },
   {
-    "ECO code":"B95",
-    "Opening":"Sicilian, Najdorf, 6...e6",
+    "ECO":"B95",
+    "Opening":"Sicilian - Najdorf - 6...e6",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6"
   },
   {
-    "ECO code":"B96",
-    "Opening":"Sicilian, Najdorf",
+    "ECO":"B96",
+    "Opening":"Sicilian - Najdorf",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4"
   },
   {
-    "ECO code":"B97",
-    "Opening":"Sicilian, Najdorf",
+    "ECO":"B97",
+    "Opening":"Sicilian - Najdorf",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Qb6"
   },
   {
-    "ECO code":"B98",
-    "Opening":"Sicilian, Najdorf",
+    "ECO":"B98",
+    "Opening":"Sicilian - Najdorf",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7"
   },
   {
-    "ECO code":"B99",
-    "Opening":"Sicilian, Najdorf, 7...Be7 Main line",
+    "ECO":"B99",
+    "Opening":"Sicilian - Najdorf - 7...Be7 Main line",
     "Moves":"1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7 8 Qf3 Qc7 9 O-O-O Nbd7"
   },
   {
-    "ECO code":"C00",
+    "ECO":"C00",
     "Opening":"French Defense",
     "Moves":"1 e4 e6"
   },
   {
-    "ECO code":"C01",
-    "Opening":"French, Exchange",
+    "ECO":"C01",
+    "Opening":"French - Exchange",
     "Moves":"1 e4 e6 2 d4 d5 3 exd5 exd5 4 Nc3 Nf6 5 Bg5"
   },
   {
-    "ECO code":"C02",
-    "Opening":"French, Advance",
+    "ECO":"C02",
+    "Opening":"French - Advance",
     "Moves":"1 e4 e6 2 d4 d5 3 e5"
   },
   {
-    "ECO code":"C03",
-    "Opening":"French, Tarrasch",
+    "ECO":"C03",
+    "Opening":"French - Tarrasch",
     "Moves":"1 e4 e6 2 d4 d5 3 Nd2"
   },
   {
-    "ECO code":"C04",
-    "Opening":"French, Tarrasch, Guimard Main line",
+    "ECO":"C04",
+    "Opening":"French - Tarrasch - Guimard Main line",
     "Moves":"1 e4 e6 2 d4 d5 3 Nd2 Nc6 4 Ngf3 Nf6"
   },
   {
-    "ECO code":"C05",
-    "Opening":"French, Tarrasch",
+    "ECO":"C05",
+    "Opening":"French - Tarrasch",
     "Moves":"1 e4 e6 2 d4 d5 3 Nd2 Nf6"
   },
   {
-    "ECO code":"C06",
-    "Opening":"French, Tarrasch",
+    "ECO":"C06",
+    "Opening":"French - Tarrasch",
     "Moves":"1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3 Nc6 7 Ne2 cxd4 8 cxd4"
   },
   {
-    "ECO code":"C07",
-    "Opening":"French, Tarrasch",
+    "ECO":"C07",
+    "Opening":"French - Tarrasch",
     "Moves":"1 e4 e6 2 d4 d5 3 Nd2 c5"
   },
   {
-    "ECO code":"C08",
-    "Opening":"French, Tarrasch, Open, 4.ed ed",
+    "ECO":"C08",
+    "Opening":"French - Tarrasch - Open - 4.ed ed",
     "Moves":"1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5"
   },
   {
-    "ECO code":"C09",
-    "Opening":"French, Tarrasch, Open Variation, Main line",
+    "ECO":"C09",
+    "Opening":"French - Tarrasch - Open Variation - Main line",
     "Moves":"1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5 5 Ngf3 Nc6"
   },
   {
-    "ECO code":"C10",
+    "ECO":"C10",
     "Opening":"French",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3"
   },
   {
-    "ECO code":"C11",
+    "ECO":"C11",
     "Opening":"French",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Nf6"
   },
   {
-    "ECO code":"C12",
-    "Opening":"French, McCutcheon",
+    "ECO":"C12",
+    "Opening":"French - McCutcheon",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Bb4"
   },
   {
-    "ECO code":"C13",
+    "ECO":"C13",
     "Opening":"French",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7"
   },
   {
-    "ECO code":"C14",
-    "Opening":"French, Classical",
+    "ECO":"C14",
+    "Opening":"French - Classical",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7 5 e5 Nfd7 6 Bxe7 Qxe7"
   },
   {
-    "ECO code":"C15",
-    "Opening":"French, Winawer",
+    "ECO":"C15",
+    "Opening":"French - Winawer",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Bb4"
   },
   {
-    "ECO code":"C16",
-    "Opening":"French, Winawer",
+    "ECO":"C16",
+    "Opening":"French - Winawer",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5"
   },
   {
-    "ECO code":"C17",
-    "Opening":"French, Winawer, Advance",
+    "ECO":"C17",
+    "Opening":"French - Winawer - Advance",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5"
   },
   {
-    "ECO code":"C18",
-    "Opening":"French, Winawer",
+    "ECO":"C18",
+    "Opening":"French - Winawer",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3"
   },
   {
-    "ECO code":"C19",
-    "Opening":"French, Winawer, Advance",
+    "ECO":"C19",
+    "Opening":"French - Winawer - Advance",
     "Moves":"1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3 Ne7"
   },
   {
-    "ECO code":"C20",
+    "ECO":"C20",
     "Opening":"King's Pawn Game",
     "Moves":"1 e4 e5"
   },
   {
-    "ECO code":"C21",
+    "ECO":"C21",
     "Opening":"Center Game",
     "Moves":"1 e4 e5 2 d4 exd4"
   },
   {
-    "ECO code":"C22",
+    "ECO":"C22",
     "Opening":"Center Game",
     "Moves":"1 e4 e5 2 d4 exd4 3 Qxd4 Nc6"
   },
   {
-    "ECO code":"C23",
+    "ECO":"C23",
     "Opening":"Bishop's Opening",
     "Moves":"1 e4 e5 2 Bc4"
   },
   {
-    "ECO code":"C24",
+    "ECO":"C24",
     "Opening":"Bishop's Opening",
     "Moves":"1 e4 e5 2 Bc4 Nf6"
   },
   {
-    "ECO code":"C25",
+    "ECO":"C25",
     "Opening":"Vienna",
     "Moves":"1 e4 e5 2 Nc3"
   },
   {
-    "ECO code":"C26",
+    "ECO":"C26",
     "Opening":"Vienna",
     "Moves":"1 e4 e5 2 Nc3 Nf6"
   },
   {
-    "ECO code":"C27",
+    "ECO":"C27",
     "Opening":"Vienna Game",
     "Moves":"1 e4 e5 2 Nc3 Nf6 3 Bc4 Nxe4"
   },
   {
-    "ECO code":"C28",
+    "ECO":"C28",
     "Opening":"Vienna Game",
     "Moves":"1 e4 e5 2 Nc3 Nf6 3 Bc4 Nc6"
   },
   {
-    "ECO code":"C29",
+    "ECO":"C29",
     "Opening":"Vienna Gambit",
     "Moves":"1 e4 e5 2 Nc3 Nf6 3 f4"
   },
   {
-    "ECO code":"C30",
+    "ECO":"C30",
     "Opening":"King's Gambit Declined",
     "Moves":"1 e4 e5 2 f4"
   },
   {
-    "ECO code":"C31",
-    "Opening":"King's Gambit Declined, Falkbeer Counter Gambit",
+    "ECO":"C31",
+    "Opening":"King's Gambit Declined - Falkbeer Counter Gambit",
     "Moves":"1 e4 e5 2 f4 d5"
   },
   {
-    "ECO code":"C32",
-    "Opening":"King's Gambit Declined, Falkbeer Counter Gambit",
+    "ECO":"C32",
+    "Opening":"King's Gambit Declined - Falkbeer Counter Gambit",
     "Moves":"1 e4 e5 2 f4 d5 3 exd5 e4 4 d3 Nf6"
   },
   {
-    "ECO code":"C33",
+    "ECO":"C33",
     "Opening":"King's Gambit Accepted",
     "Moves":"1 e4 e5 2 f4 exf4"
   },
   {
-    "ECO code":"C34",
+    "ECO":"C34",
     "Opening":"King's Gambit Accepted",
     "Moves":"1 e4 e5 2 f4 exf4 3 Nf3"
   },
   {
-    "ECO code":"C35",
-    "Opening":"King's Gambit Accepted, Cunningham",
+    "ECO":"C35",
+    "Opening":"King's Gambit Accepted - Cunningham",
     "Moves":"1 e4 e5 2 f4 exf4 3 Nf3 Be7"
   },
   {
-    "ECO code":"C36",
-    "Opening":"King's Gambit Accepted, Abbazia Defense",
+    "ECO":"C36",
+    "Opening":"King's Gambit Accepted - Abbazia Defense",
     "Moves":"1 e4 e5 2 f4 exf4 3 Nf3 d5"
   },
   {
-    "ECO code":"C37",
+    "ECO":"C37",
     "Opening":"King's Gambit Accepted",
     "Moves":"1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Nc3"
   },
   {
-    "ECO code":"C38",
+    "ECO":"C38",
     "Opening":"King's Gambit Accepted",
     "Moves":"1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Bc4 Bg7"
   },
   {
-    "ECO code":"C39",
+    "ECO":"C39",
     "Opening":"King's Gambit Accepted",
     "Moves":"1 e4 e5 2 f4 exf4 3 Nf3 g5 4 h4"
   },
   {
-    "ECO code":"C40",
+    "ECO":"C40",
     "Opening":"King's Knight Opening",
     "Moves":"1 e4 e5 2 Nf3"
   },
   {
-    "ECO code":"C41",
+    "ECO":"C41",
     "Opening":"Philidor Defense",
     "Moves":"1 e4 e5 2 Nf3 d6"
   },
   {
-    "ECO code":"C42",
+    "ECO":"C42",
     "Opening":"Petrov Defense",
     "Moves":"1 e4 e5 2 Nf3 Nf6"
   },
   {
-    "ECO code":"C43",
-    "Opening":"Petrov, Modern Attack",
+    "ECO":"C43",
+    "Opening":"Petrov - Modern Attack",
     "Moves":"1 e4 e5 2 Nf3 Nf6 3 d4 exd4 4 e5 Ne4 5 Qxd4"
   },
   {
-    "ECO code":"C44",
+    "ECO":"C44",
     "Opening":"King's Pawn Game",
     "Moves":"1 e4 e5 2 Nf3 Nc6"
   },
   {
-    "ECO code":"C45",
+    "ECO":"C45",
     "Opening":"Scotch Game",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 d4 exd4 4 Nxd4"
   },
   {
-    "ECO code":"C46",
+    "ECO":"C46",
     "Opening":"Three Knights",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Nc3"
   },
   {
-    "ECO code":"C47",
+    "ECO":"C47",
     "Opening":"Four Knights",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6"
   },
   {
-    "ECO code":"C48",
+    "ECO":"C48",
     "Opening":"Four Knights",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5"
   },
   {
-    "ECO code":"C49",
+    "ECO":"C49",
     "Opening":"Four Knights",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5 Bb4"
   },
   {
-    "ECO code":"C50",
+    "ECO":"C50",
     "Opening":"Giuoco Piano",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5"
   },
   {
-    "ECO code":"C51",
+    "ECO":"C51",
     "Opening":"Evans Gambit",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4"
   },
   {
-    "ECO code":"C52",
+    "ECO":"C52",
     "Opening":"Evans Gambit",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 Bxb4 5 c3 Ba5"
   },
   {
-    "ECO code":"C53",
+    "ECO":"C53",
     "Opening":"Giuoco Piano",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3"
   },
   {
-    "ECO code":"C54",
+    "ECO":"C54",
     "Opening":"Giuoco Piano",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4 exd4 6 cxd4"
   },
   {
-    "ECO code":"C55",
+    "ECO":"C55",
     "Opening":"Two Knights Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6"
   },
   {
-    "ECO code":"C56",
+    "ECO":"C56",
     "Opening":"Two Knights",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 d4 exd4 5 O-O Nxe4"
   },
   {
-    "ECO code":"C57",
+    "ECO":"C57",
     "Opening":"Two Knights",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5"
   },
   {
-    "ECO code":"C58",
+    "ECO":"C58",
     "Opening":"Two Knights",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5"
   },
   {
-    "ECO code":"C59",
+    "ECO":"C59",
     "Opening":"Two Knights",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6 7 dxc6 bxc6 8 Be2 h6"
   },
   {
-    "ECO code":"C60",
+    "ECO":"C60",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5"
   },
   {
-    "ECO code":"C61",
-    "Opening":"Ruy Lopez, Bird's Defense",
+    "ECO":"C61",
+    "Opening":"Ruy Lopez - Bird's Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 Nd4"
   },
   {
-    "ECO code":"C62",
-    "Opening":"Ruy Lopez, Old Steinitz Defense",
+    "ECO":"C62",
+    "Opening":"Ruy Lopez - Old Steinitz Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 d6"
   },
   {
-    "ECO code":"C63",
-    "Opening":"Ruy Lopez, Schliemann Defense",
+    "ECO":"C63",
+    "Opening":"Ruy Lopez - Schliemann Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 f5"
   },
   {
-    "ECO code":"C64",
-    "Opening":"Ruy Lopez, Classical",
+    "ECO":"C64",
+    "Opening":"Ruy Lopez - Classical",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 Bc5"
   },
   {
-    "ECO code":"C65",
-    "Opening":"Ruy Lopez, Berlin Defense",
+    "ECO":"C65",
+    "Opening":"Ruy Lopez - Berlin Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6"
   },
   {
-    "ECO code":"C66",
+    "ECO":"C66",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O d6"
   },
   {
-    "ECO code":"C67",
+    "ECO":"C67",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O Nxe4"
   },
   {
-    "ECO code":"C68",
-    "Opening":"Ruy Lopez, Exchange",
+    "ECO":"C68",
+    "Opening":"Ruy Lopez - Exchange",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6"
   },
   {
-    "ECO code":"C69",
-    "Opening":"Ruy Lopez, Exchange, Gligoric Variation",
+    "ECO":"C69",
+    "Opening":"Ruy Lopez - Exchange - Gligoric Variation",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6 dc 5 O-O f6"
   },
   {
-    "ECO code":"C70",
+    "ECO":"C70",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4"
   },
   {
-    "ECO code":"C71",
+    "ECO":"C71",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6"
   },
   {
-    "ECO code":"C72",
-    "Opening":"Ruy Lopez, Modern Steinitz Defense, 5.O-O",
+    "ECO":"C72",
+    "Opening":"Ruy Lopez - Modern Steinitz Defense - 5.O-O",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 O-O"
   },
   {
-    "ECO code":"C73",
-    "Opening":"Ruy Lopez, Modern Steinitz Defense",
+    "ECO":"C73",
+    "Opening":"Ruy Lopez - Modern Steinitz Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 Bxc6+ bxc6 6 d4"
   },
   {
-    "ECO code":"C74",
-    "Opening":"Ruy Lopez, Modern Steinitz Defense",
+    "ECO":"C74",
+    "Opening":"Ruy Lopez - Modern Steinitz Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3"
   },
   {
-    "ECO code":"C75",
-    "Opening":"Ruy Lopez, Modern Steinitz Defense",
+    "ECO":"C75",
+    "Opening":"Ruy Lopez - Modern Steinitz Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7"
   },
   {
-    "ECO code":"C76",
-    "Opening":"Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation",
+    "ECO":"C76",
+    "Opening":"Ruy Lopez - Modern Steinitz Defense - Fianchetto Variation",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7 6 d4 g6"
   },
   {
-    "ECO code":"C77",
+    "ECO":"C77",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6"
   },
   {
-    "ECO code":"C78",
+    "ECO":"C78",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O"
   },
   {
-    "ECO code":"C79",
-    "Opening":"Ruy Lopez, Steinitz Defense Deferred",
+    "ECO":"C79",
+    "Opening":"Ruy Lopez - Steinitz Defense Deferred",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O d6"
   },
   {
-    "ECO code":"C80",
-    "Opening":"Ruy Lopez, Open",
+    "ECO":"C80",
+    "Opening":"Ruy Lopez - Open",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4"
   },
   {
-    "ECO code":"C81",
-    "Opening":"Ruy Lopez, Open, Howell Attack",
+    "ECO":"C81",
+    "Opening":"Ruy Lopez - Open - Howell Attack",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 Qe2"
   },
   {
-    "ECO code":"C82",
-    "Opening":"Ruy Lopez, Open",
+    "ECO":"C82",
+    "Opening":"Ruy Lopez - Open",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 c3"
   },
   {
-    "ECO code":"C83",
-    "Opening":"Ruy Lopez, Open",
+    "ECO":"C83",
+    "Opening":"Ruy Lopez - Open",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6"
   },
   {
-    "ECO code":"C84",
-    "Opening":"Ruy Lopez, Closed",
+    "ECO":"C84",
+    "Opening":"Ruy Lopez - Closed",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7"
   },
   {
-    "ECO code":"C85",
-    "Opening":"Ruy Lopez, Exchange Variation Doubly Deferred (DERLD)",
+    "ECO":"C85",
+    "Opening":"Ruy Lopez - Exchange Variation Doubly Deferred (DERLD)",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Bxc6 dxc6"
   },
   {
-    "ECO code":"C86",
-    "Opening":"Ruy Lopez, Worrall Attack",
+    "ECO":"C86",
+    "Opening":"Ruy Lopez - Worrall Attack",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Qe2"
   },
   {
-    "ECO code":"C87",
+    "ECO":"C87",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 d6"
   },
   {
-    "ECO code":"C88",
+    "ECO":"C88",
     "Opening":"Ruy Lopez",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3"
   },
   {
-    "ECO code":"C89",
-    "Opening":"Ruy Lopez, Marshall",
+    "ECO":"C89",
+    "Opening":"Ruy Lopez - Marshall",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d5"
   },
   {
-    "ECO code":"C90",
-    "Opening":"Ruy Lopez, Closed",
+    "ECO":"C90",
+    "Opening":"Ruy Lopez - Closed",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6"
   },
   {
-    "ECO code":"C91",
-    "Opening":"Ruy Lopez, Closed",
+    "ECO":"C91",
+    "Opening":"Ruy Lopez - Closed",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 d4"
   },
   {
-    "ECO code":"C92",
-    "Opening":"Ruy Lopez, Closed",
+    "ECO":"C92",
+    "Opening":"Ruy Lopez - Closed",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3"
   },
   {
-    "ECO code":"C93",
-    "Opening":"Ruy Lopez, Closed, Smyslov Defense",
+    "ECO":"C93",
+    "Opening":"Ruy Lopez - Closed - Smyslov Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 h6"
   },
   {
-    "ECO code":"C94",
-    "Opening":"Ruy Lopez, Closed, Breyer Defense",
+    "ECO":"C94",
+    "Opening":"Ruy Lopez - Closed - Breyer Defense",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8"
   },
   {
-    "ECO code":"C95",
-    "Opening":"Ruy Lopez, Closed, Breyer",
+    "ECO":"C95",
+    "Opening":"Ruy Lopez - Closed - Breyer",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8 10 d4"
   },
   {
-    "ECO code":"C96",
-    "Opening":"Ruy Lopez, Closed",
+    "ECO":"C96",
+    "Opening":"Ruy Lopez - Closed",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2"
   },
   {
-    "ECO code":"C97",
-    "Opening":"Ruy Lopez, Closed, Chigorin",
+    "ECO":"C97",
+    "Opening":"Ruy Lopez - Closed - Chigorin",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7"
   },
   {
-    "ECO code":"C98",
-    "Opening":"Ruy Lopez, Closed, Chigorin",
+    "ECO":"C98",
+    "Opening":"Ruy Lopez - Closed - Chigorin",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 Nc6"
   },
   {
-    "ECO code":"C99",
-    "Opening":"Ruy Lopez, Closed, Chigorin, 12...cd",
+    "ECO":"C99",
+    "Opening":"Ruy Lopez - Closed - Chigorin - 12...cd",
     "Moves":"1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 cxd4 13 cxd4"
   },
   {
-    "ECO code":"D00",
+    "ECO":"D00",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 d5"
   },
   {
-    "ECO code":"D01",
+    "ECO":"D01",
     "Opening":"Richter-Veresov Attack",
     "Moves":"1 d4 d5 2 Nc3 Nf6 3 Bg5"
   },
   {
-    "ECO code":"D02",
+    "ECO":"D02",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 d5 2 Nf3"
   },
   {
-    "ECO code":"D03",
+    "ECO":"D03",
     "Opening":"Torre Attack (Tartakower Variation)",
     "Moves":"1 d4 d5 2 Nf3 Nf6 3 Bg5"
   },
   {
-    "ECO code":"D04",
+    "ECO":"D04",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 d5 2 Nf3 Nf6 3 e3"
   },
   {
-    "ECO code":"D05",
+    "ECO":"D05",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 d5 2 Nf3 Nf6 3 e3 e6"
   },
   {
-    "ECO code":"D06",
+    "ECO":"D06",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4"
   },
   {
-    "ECO code":"D07",
-    "Opening":"Queen's Gambit Declined, Chigorin Defense",
+    "ECO":"D07",
+    "Opening":"Queen's Gambit Declined - Chigorin Defense",
     "Moves":"1 d4 d5 2 c4 Nc6"
   },
   {
-    "ECO code":"D08",
-    "Opening":"Queen's Gambit Declined, Albin Counter Gambit",
+    "ECO":"D08",
+    "Opening":"Queen's Gambit Declined - Albin Counter Gambit",
     "Moves":"1 d4 d5 2 c4 e5"
   },
   {
-    "ECO code":"D09",
-    "Opening":"Queen's Gambit Declined, Albin Counter Gambit, 5.g3",
+    "ECO":"D09",
+    "Opening":"Queen's Gambit Declined - Albin Counter Gambit - 5.g3",
     "Moves":"1 d4 d5 2 c4 e5 3 dxe5 d4 4 Nf3 Nc6 5 g3"
   },
   {
-    "ECO code":"D10",
+    "ECO":"D10",
     "Opening":"Queen's Gambit Declined Slav",
     "Moves":"1 d4 d5 2 c4 c6"
   },
   {
-    "ECO code":"D11",
+    "ECO":"D11",
     "Opening":"Queen's Gambit Declined Slav",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3"
   },
   {
-    "ECO code":"D12",
+    "ECO":"D12",
     "Opening":"Queen's Gambit Declined Slav",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 e3 Bf5"
   },
   {
-    "ECO code":"D13",
-    "Opening":"Queen's Gambit Declined Slav, Exchange Variation",
+    "ECO":"D13",
+    "Opening":"Queen's Gambit Declined Slav - Exchange Variation",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5"
   },
   {
-    "ECO code":"D14",
-    "Opening":"Queen's Gambit Declined Slav, Exchange Variation",
+    "ECO":"D14",
+    "Opening":"Queen's Gambit Declined Slav - Exchange Variation",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5 5 Nc3 Nc6 6 Bf4 Bf5"
   },
   {
-    "ECO code":"D15",
+    "ECO":"D15",
     "Opening":"Queen's Gambit Declined Slav",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3"
   },
   {
-    "ECO code":"D16",
+    "ECO":"D16",
     "Opening":"Queen's Gambit Declined Slav",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4"
   },
   {
-    "ECO code":"D17",
+    "ECO":"D17",
     "Opening":"Queen's Gambit Declined Slav",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5"
   },
   {
-    "ECO code":"D18",
-    "Opening":"Queen's Gambit Declined Slav, Dutch",
+    "ECO":"D18",
+    "Opening":"Queen's Gambit Declined Slav - Dutch",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3"
   },
   {
-    "ECO code":"D19",
-    "Opening":"Queen's Gambit Declined Slav, Dutch",
+    "ECO":"D19",
+    "Opening":"Queen's Gambit Declined Slav - Dutch",
     "Moves":"1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4 Bb4 8 O-O O-O 9 Qe2"
   },
   {
-    "ECO code":"D20",
+    "ECO":"D20",
     "Opening":"Queen's Gambit Accepted",
     "Moves":"1 d4 d5 2 c4 dxc4"
   },
   {
-    "ECO code":"D21",
+    "ECO":"D21",
     "Opening":"Queen's Gambit Accepted",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3"
   },
   {
-    "ECO code":"D22",
+    "ECO":"D22",
     "Opening":"Queen's Gambit Accepted",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3 Bg4 5 Bxc4 e6 6 d5"
   },
   {
-    "ECO code":"D23",
+    "ECO":"D23",
     "Opening":"Queen's Gambit Accepted",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3 Nf6"
   },
   {
-    "ECO code":"D24",
+    "ECO":"D24",
     "Opening":"Queen's Gambit Accepted",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 Nc3"
   },
   {
-    "ECO code":"D25",
+    "ECO":"D25",
     "Opening":"Queen's Gambit Accepted",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3"
   },
   {
-    "ECO code":"D26",
+    "ECO":"D26",
     "Opening":"Queen's Gambit Accepted",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6"
   },
   {
-    "ECO code":"D27",
-    "Opening":"Queen's Gambit Accepted, Classical",
+    "ECO":"D27",
+    "Opening":"Queen's Gambit Accepted - Classical",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6"
   },
   {
-    "ECO code":"D28",
-    "Opening":"Queen's Gambit Accepted, Classical",
+    "ECO":"D28",
+    "Opening":"Queen's Gambit Accepted - Classical",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2"
   },
   {
-    "ECO code":"D29",
-    "Opening":"Queen's Gambit Accepted, Classical",
+    "ECO":"D29",
+    "Opening":"Queen's Gambit Accepted - Classical",
     "Moves":"1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2 b5 8 Bb3 Bb7"
   },
   {
-    "ECO code":"D30",
+    "ECO":"D30",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6"
   },
   {
-    "ECO code":"D31",
+    "ECO":"D31",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3"
   },
   {
-    "ECO code":"D32",
-    "Opening":"Queen's Gambit Declined, Tarrasch",
+    "ECO":"D32",
+    "Opening":"Queen's Gambit Declined - Tarrasch",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 c5"
   },
   {
-    "ECO code":"D33",
-    "Opening":"Queen's Gambit Declined, Tarrasch",
+    "ECO":"D33",
+    "Opening":"Queen's Gambit Declined - Tarrasch",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3"
   },
   {
-    "ECO code":"D34",
-    "Opening":"Queen's Gambit Declined, Tarrasch",
+    "ECO":"D34",
+    "Opening":"Queen's Gambit Declined - Tarrasch",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3 Nf6 7 Bg2 Be7"
   },
   {
-    "ECO code":"D35",
+    "ECO":"D35",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6"
   },
   {
-    "ECO code":"D36",
-    "Opening":"Queen's Gambit Declined, Exchange, Positional line, 6.Qc2",
+    "ECO":"D36",
+    "Opening":"Queen's Gambit Declined - Exchange - Positional line - 6.Qc2",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5 exd5 5 Bg5 c6 6 Qc2"
   },
   {
-    "ECO code":"D37",
+    "ECO":"D37",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3"
   },
   {
-    "ECO code":"D38",
-    "Opening":"Queen's Gambit Declined, Ragozin Variation",
+    "ECO":"D38",
+    "Opening":"Queen's Gambit Declined - Ragozin Variation",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4"
   },
   {
-    "ECO code":"D39",
-    "Opening":"Queen's Gambit Declined, Ragozin, Vienna Variation",
+    "ECO":"D39",
+    "Opening":"Queen's Gambit Declined - Ragozin - Vienna Variation",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4 5 Bg5 dxc4"
   },
   {
-    "ECO code":"D40",
-    "Opening":"Queen's Gambit Declined, Semi-Tarrasch",
+    "ECO":"D40",
+    "Opening":"Queen's Gambit Declined - Semi-Tarrasch",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5"
   },
   {
-    "ECO code":"D41",
-    "Opening":"Queen's Gambit Declined, Semi-Tarrasch",
+    "ECO":"D41",
+    "Opening":"Queen's Gambit Declined - Semi-Tarrasch",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5"
   },
   {
-    "ECO code":"D42",
-    "Opening":"Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3",
+    "ECO":"D42",
+    "Opening":"Queen's Gambit Declined - Semi-Tarrasch - 7.Bd3",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5 Nxd5 6 e3 Nc6 7 Bd3"
   },
   {
-    "ECO code":"D43",
+    "ECO":"D43",
     "Opening":"Queen's Gambit Declined Semi-Slav",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6"
   },
   {
-    "ECO code":"D44",
+    "ECO":"D44",
     "Opening":"Queen's Gambit Declined Semi-Slav",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 Bg5 dxc4"
   },
   {
-    "ECO code":"D45",
+    "ECO":"D45",
     "Opening":"Queen's Gambit Declined Semi-Slav",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3"
   },
   {
-    "ECO code":"D46",
+    "ECO":"D46",
     "Opening":"Queen's Gambit Declined Semi-Slav",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3"
   },
   {
-    "ECO code":"D47",
+    "ECO":"D47",
     "Opening":"Queen's Gambit Declined Semi-Slav",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4"
   },
   {
-    "ECO code":"D48",
-    "Opening":"Queen's Gambit Declined Semi-Slav, Meran",
+    "ECO":"D48",
+    "Opening":"Queen's Gambit Declined Semi-Slav - Meran",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6"
   },
   {
-    "ECO code":"D49",
-    "Opening":"Queen's Gambit Declined Semi-Slav, Meran",
+    "ECO":"D49",
+    "Opening":"Queen's Gambit Declined Semi-Slav - Meran",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4 c5 10 e5 cxd4 11 Nxb5"
   },
   {
-    "ECO code":"D50",
+    "ECO":"D50",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5"
   },
   {
-    "ECO code":"D51",
+    "ECO":"D51",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7"
   },
   {
-    "ECO code":"D52",
+    "ECO":"D52",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7 5 e3 c6 6 Nf3"
   },
   {
-    "ECO code":"D53",
+    "ECO":"D53",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7"
   },
   {
-    "ECO code":"D54",
-    "Opening":"Queen's Gambit Declined, Anti-Neo-Orthodox Variation",
+    "ECO":"D54",
+    "Opening":"Queen's Gambit Declined - Anti-Neo-Orthodox Variation",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Rc1"
   },
   {
-    "ECO code":"D55",
+    "ECO":"D55",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3"
   },
   {
-    "ECO code":"D56",
+    "ECO":"D56",
     "Opening":"Queen's Gambit Declined",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4"
   },
   {
-    "ECO code":"D57",
-    "Opening":"Queen's Gambit Declined, Lasker Defense",
+    "ECO":"D57",
+    "Opening":"Queen's Gambit Declined - Lasker Defense",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 Ne4 8 Bxe7 Qxe7"
   },
   {
-    "ECO code":"D58",
-    "Opening":"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",
+    "ECO":"D58",
+    "Opening":"Queen's Gambit Declined - Tartakower (Makagonov-Bondarevsky) System",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6"
   },
   {
-    "ECO code":"D59",
-    "Opening":"Queen's Gambit Declined, Tartakower",
+    "ECO":"D59",
+    "Opening":"Queen's Gambit Declined - Tartakower",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6 8 cxd5 Nxd5"
   },
   {
-    "ECO code":"D60",
-    "Opening":"Queen's Gambit Declined, Orthodox Defense",
+    "ECO":"D60",
+    "Opening":"Queen's Gambit Declined - Orthodox Defense",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7"
   },
   {
-    "ECO code":"D61",
-    "Opening":"Queen's Gambit Declined, Orthodox, Rubinstein Attack",
+    "ECO":"D61",
+    "Opening":"Queen's Gambit Declined - Orthodox - Rubinstein Attack",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2"
   },
   {
-    "ECO code":"D62",
-    "Opening":"Queen's Gambit Declined, Orthodox, Rubinstein Attack",
+    "ECO":"D62",
+    "Opening":"Queen's Gambit Declined - Orthodox - Rubinstein Attack",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2 c5 8 cxd5"
   },
   {
-    "ECO code":"D63",
-    "Opening":"Queen's Gambit Declined, Orthodox Defense",
+    "ECO":"D63",
+    "Opening":"Queen's Gambit Declined - Orthodox Defense",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1"
   },
   {
-    "ECO code":"D64",
-    "Opening":"Queen's Gambit Declined, Orthodox, Rubinstein Attack",
+    "ECO":"D64",
+    "Opening":"Queen's Gambit Declined - Orthodox - Rubinstein Attack",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2"
   },
   {
-    "ECO code":"D65",
-    "Opening":"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line",
+    "ECO":"D65",
+    "Opening":"Queen's Gambit Declined - Orthodox - Rubinstein Attack - Main line",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2 a6 9 cxd5"
   },
   {
-    "ECO code":"D66",
-    "Opening":"Queen's Gambit Declined, Orthodox Defense, Bd3 line",
+    "ECO":"D66",
+    "Opening":"Queen's Gambit Declined - Orthodox Defense - Bd3 line",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3"
   },
   {
-    "ECO code":"D67",
-    "Opening":"Queen's Gambit Declined, Orthodox Defense, Bd3 line",
+    "ECO":"D67",
+    "Opening":"Queen's Gambit Declined - Orthodox Defense - Bd3 line",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4 9 Bxc4 Nd5"
   },
   {
-    "ECO code":"D68",
-    "Opening":"Queen's Gambit Declined, Orthodox Defense, Classical",
+    "ECO":"D68",
+    "Opening":"Queen's Gambit Declined - Orthodox Defense - Classical",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4"
   },
   {
-    "ECO code":"D69",
-    "Opening":"Queen's Gambit Declined, Orthodox Defense, Classical, 13.de",
+    "ECO":"D69",
+    "Opening":"Queen's Gambit Declined - Orthodox Defense - Classical - 13.de",
     "Moves":"1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4"
   },
   {
-    "ECO code":"D70",
+    "ECO":"D70",
     "Opening":"Neo-Grunfeld Defense",
     "Moves":"1 d4 Nf6 2 c4 g6 3 f3 d5"
   },
   {
-    "ECO code":"D71",
+    "ECO":"D71",
     "Opening":"Neo-Grunfeld",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5"
   },
   {
-    "ECO code":"D72",
-    "Opening":"Neo-Grunfeld, 5.cd, Main line",
+    "ECO":"D72",
+    "Opening":"Neo-Grunfeld - 5.cd - Main line",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5 Nxd5 6 e4 Nb6 7 Ne2"
   },
   {
-    "ECO code":"D73",
-    "Opening":"Neo-Grunfeld, 5.Nf3",
+    "ECO":"D73",
+    "Opening":"Neo-Grunfeld - 5.Nf3",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3"
   },
   {
-    "ECO code":"D74",
-    "Opening":"Neo-Grunfeld, 6.cd Nxd5, 7.O-O",
+    "ECO":"D74",
+    "Opening":"Neo-Grunfeld - 6.cd Nxd5 - 7.O-O",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O"
   },
   {
-    "ECO code":"D75",
-    "Opening":"Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5",
+    "ECO":"D75",
+    "Opening":"Neo-Grunfeld - 6.cd Nxd5 - 7.O-O c5 - 8.dxc5",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O c5 8 dxc5"
   },
   {
-    "ECO code":"D76",
-    "Opening":"Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6",
+    "ECO":"D76",
+    "Opening":"Neo-Grunfeld - 6.cd Nxd5 - 7.O-O Nb6",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O Nb6"
   },
   {
-    "ECO code":"D77",
-    "Opening":"Neo-Grunfeld, 6.O-O",
+    "ECO":"D77",
+    "Opening":"Neo-Grunfeld - 6.O-O",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O"
   },
   {
-    "ECO code":"D78",
-    "Opening":"Neo-Grunfeld, 6.O-O c6",
+    "ECO":"D78",
+    "Opening":"Neo-Grunfeld - 6.O-O c6",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6"
   },
   {
-    "ECO code":"D79",
-    "Opening":"Neo-Grunfeld, 6.O-O, Main line",
+    "ECO":"D79",
+    "Opening":"Neo-Grunfeld - 6.O-O - Main line",
     "Moves":"1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6 7 cxd5 cxd5"
   },
   {
-    "ECO code":"D80",
+    "ECO":"D80",
     "Opening":"Grunfeld",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5"
   },
   {
-    "ECO code":"D81",
-    "Opening":"Grunfeld, Russian Variation",
+    "ECO":"D81",
+    "Opening":"Grunfeld - Russian Variation",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Qb3"
   },
   {
-    "ECO code":"D82",
-    "Opening":"Grunfeld, 4.Bf4",
+    "ECO":"D82",
+    "Opening":"Grunfeld - 4.Bf4",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4"
   },
   {
-    "ECO code":"D83",
-    "Opening":"Grunfeld, Grunfeld Gambit",
+    "ECO":"D83",
+    "Opening":"Grunfeld - Grunfeld Gambit",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O"
   },
   {
-    "ECO code":"D84",
-    "Opening":"Grunfeld, Grunfeld Gambit Accepted",
+    "ECO":"D84",
+    "Opening":"Grunfeld - Grunfeld Gambit Accepted",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5 Nxd5 7 Nxd5 Qxd5 8 Bxc7"
   },
   {
-    "ECO code":"D85",
+    "ECO":"D85",
     "Opening":"Grunfeld",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5"
   },
   {
-    "ECO code":"D86",
-    "Opening":"Grunfeld, Exchange",
+    "ECO":"D86",
+    "Opening":"Grunfeld - Exchange",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4"
   },
   {
-    "ECO code":"D87",
-    "Opening":"Grunfeld, Exchange",
+    "ECO":"D87",
+    "Opening":"Grunfeld - Exchange",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2 c5"
   },
   {
-    "ECO code":"D88",
-    "Opening":"Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd",
+    "ECO":"D88",
+    "Opening":"Grunfeld - Spassky Variation - Main line - 10...cd - 11.cd",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2"
   },
   {
-    "ECO code":"D89",
+    "ECO":"D89",
     "Opening":"Grunfeld",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2"
   },
   {
-    "ECO code":"D90",
+    "ECO":"D90",
     "Opening":"Grunfeld",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3"
   },
   {
-    "ECO code":"D91",
-    "Opening":"Grunfeld, 5.Bg5",
+    "ECO":"D91",
+    "Opening":"Grunfeld - 5.Bg5",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bg5"
   },
   {
-    "ECO code":"D92",
-    "Opening":"Grunfeld, 5.Bf4",
+    "ECO":"D92",
+    "Opening":"Grunfeld - 5.Bf4",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4"
   },
   {
-    "ECO code":"D93",
-    "Opening":"Grunfeld, with Bf4 & e3",
+    "ECO":"D93",
+    "Opening":"Grunfeld - with Bf4 & e3",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4 O-O 6 e3"
   },
   {
-    "ECO code":"D94",
+    "ECO":"D94",
     "Opening":"Grunfeld",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3"
   },
   {
-    "ECO code":"D95",
+    "ECO":"D95",
     "Opening":"Grunfeld",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3 O-O 6 Qb3"
   },
   {
-    "ECO code":"D96",
-    "Opening":"Grunfeld, Russian Variation",
+    "ECO":"D96",
+    "Opening":"Grunfeld - Russian Variation",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3"
   },
   {
-    "ECO code":"D97",
-    "Opening":"Grunfeld, Russian",
+    "ECO":"D97",
+    "Opening":"Grunfeld - Russian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4"
   },
   {
-    "ECO code":"D98",
-    "Opening":"Grunfeld, Russian",
+    "ECO":"D98",
+    "Opening":"Grunfeld - Russian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4"
   },
   {
-    "ECO code":"D99",
-    "Opening":"Grunfeld Defense, Smyslov",
+    "ECO":"D99",
+    "Opening":"Grunfeld Defense - Smyslov",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4 8 Be3"
   },
   {
-    "ECO code":"E00",
+    "ECO":"E00",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 Nf6 2 c4 e6"
   },
   {
-    "ECO code":"E01",
-    "Opening":"Catalan, Closed",
+    "ECO":"E01",
+    "Opening":"Catalan - Closed",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2"
   },
   {
-    "ECO code":"E02",
-    "Opening":"Catalan, Open, 5.Qa4",
+    "ECO":"E02",
+    "Opening":"Catalan - Open - 5.Qa4",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+"
   },
   {
-    "ECO code":"E03",
-    "Opening":"Catalan, Open",
+    "ECO":"E03",
+    "Opening":"Catalan - Open",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+ Nbd7 6 Qxc4"
   },
   {
-    "ECO code":"E04",
-    "Opening":"Catalan, Open, 5.Nf3",
+    "ECO":"E04",
+    "Opening":"Catalan - Open - 5.Nf3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3"
   },
   {
-    "ECO code":"E05",
-    "Opening":"Catalan, Open, Classical line",
+    "ECO":"E05",
+    "Opening":"Catalan - Open - Classical line",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3 Be7"
   },
   {
-    "ECO code":"E06",
-    "Opening":"Catalan, Closed, 5.Nf3",
+    "ECO":"E06",
+    "Opening":"Catalan - Closed - 5.Nf3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3"
   },
   {
-    "ECO code":"E07",
-    "Opening":"Catalan, Closed",
+    "ECO":"E07",
+    "Opening":"Catalan - Closed",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7"
   },
   {
-    "ECO code":"E08",
-    "Opening":"Catalan, Closed",
+    "ECO":"E08",
+    "Opening":"Catalan - Closed",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2"
   },
   {
-    "ECO code":"E09",
-    "Opening":"Catalan, Closed",
+    "ECO":"E09",
+    "Opening":"Catalan - Closed",
     "Moves":"1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2 c6 8 Nbd2"
   },
   {
-    "ECO code":"E10",
+    "ECO":"E10",
     "Opening":"Queen's Pawn Game",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3"
   },
   {
-    "ECO code":"E11",
+    "ECO":"E11",
     "Opening":"Bogo-Indian Defense",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 Bb4+"
   },
   {
-    "ECO code":"E12",
+    "ECO":"E12",
     "Opening":"Queen's Indian",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 b6"
   },
   {
-    "ECO code":"E13",
-    "Opening":"Queen's Indian, 4.Nc3, Main line",
+    "ECO":"E13",
+    "Opening":"Queen's Indian - 4.Nc3 - Main line",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7 5 Bg5 h6 6 Bh4 Bb4"
   },
   {
-    "ECO code":"E14",
+    "ECO":"E14",
     "Opening":"Queen's Indian",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 e3"
   },
   {
-    "ECO code":"E15",
+    "ECO":"E15",
     "Opening":"Queen's Indian",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3"
   },
   {
-    "ECO code":"E16",
+    "ECO":"E16",
     "Opening":"Queen's Indian",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Bb4+"
   },
   {
-    "ECO code":"E17",
+    "ECO":"E17",
     "Opening":"Queen's Indian",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7"
   },
   {
-    "ECO code":"E18",
-    "Opening":"Queen's Indian, Old Main line, 7.Nc3",
+    "ECO":"E18",
+    "Opening":"Queen's Indian - Old Main line - 7.Nc3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3"
   },
   {
-    "ECO code":"E19",
-    "Opening":"Queen's Indian, Old Main line, 9.Qxc3",
+    "ECO":"E19",
+    "Opening":"Queen's Indian - Old Main line - 9.Qxc3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3 Ne4 8 Qc2 Nxc3"
   },
   {
-    "ECO code":"E20",
+    "ECO":"E20",
     "Opening":"Nimzo-Indian",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4"
   },
   {
-    "ECO code":"E21",
-    "Opening":"Nimzo-Indian, Three Knights",
+    "ECO":"E21",
+    "Opening":"Nimzo-Indian - Three Knights",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Nf3"
   },
   {
-    "ECO code":"E22",
-    "Opening":"Nimzo-Indian, Spielmann Variation",
+    "ECO":"E22",
+    "Opening":"Nimzo-Indian - Spielmann Variation",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3"
   },
   {
-    "ECO code":"E23",
-    "Opening":"Nimzo-Indian, Spielmann",
+    "ECO":"E23",
+    "Opening":"Nimzo-Indian - Spielmann",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3 c5 5 dxc5 Nc6"
   },
   {
-    "ECO code":"E24",
-    "Opening":"Nimzo-Indian, Samisch",
+    "ECO":"E24",
+    "Opening":"Nimzo-Indian - Samisch",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3"
   },
   {
-    "ECO code":"E25",
-    "Opening":"Nimzo-Indian, Samisch",
+    "ECO":"E25",
+    "Opening":"Nimzo-Indian - Samisch",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 f3 d5 7 cxd5"
   },
   {
-    "ECO code":"E26",
-    "Opening":"Nimzo-Indian, Samisch",
+    "ECO":"E26",
+    "Opening":"Nimzo-Indian - Samisch",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 e3"
   },
   {
-    "ECO code":"E27",
-    "Opening":"Nimzo-Indian, Samisch Variation",
+    "ECO":"E27",
+    "Opening":"Nimzo-Indian - Samisch Variation",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O"
   },
   {
-    "ECO code":"E28",
-    "Opening":"Nimzo-Indian, Samisch Variation",
+    "ECO":"E28",
+    "Opening":"Nimzo-Indian - Samisch Variation",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3"
   },
   {
-    "ECO code":"E29",
-    "Opening":"Nimzo-Indian, Samisch",
+    "ECO":"E29",
+    "Opening":"Nimzo-Indian - Samisch",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3 c5 7 Bd3 Nc6"
   },
   {
-    "ECO code":"E30",
-    "Opening":"Nimzo-Indian, Leningrad",
+    "ECO":"E30",
+    "Opening":"Nimzo-Indian - Leningrad",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5"
   },
   {
-    "ECO code":"E31",
-    "Opening":"Nimzo-Indian, Leningrad, Main line",
+    "ECO":"E31",
+    "Opening":"Nimzo-Indian - Leningrad - Main line",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6 5 Bh4 c5 6 d5 d6"
   },
   {
-    "ECO code":"E32",
-    "Opening":"Nimzo-Indian, Classical",
+    "ECO":"E32",
+    "Opening":"Nimzo-Indian - Classical",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2"
   },
   {
-    "ECO code":"E33",
-    "Opening":"Nimzo-Indian, Classical",
+    "ECO":"E33",
+    "Opening":"Nimzo-Indian - Classical",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 Nc6"
   },
   {
-    "ECO code":"E34",
-    "Opening":"Nimzo-Indian, Classical, Noa Variation",
+    "ECO":"E34",
+    "Opening":"Nimzo-Indian - Classical - Noa Variation",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5"
   },
   {
-    "ECO code":"E35",
-    "Opening":"Nimzo-Indian, Classical, Noa Variation, 5.cd ed",
+    "ECO":"E35",
+    "Opening":"Nimzo-Indian - Classical - Noa Variation - 5.cd ed",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 cxd5 exd5"
   },
   {
-    "ECO code":"E36",
-    "Opening":"Nimzo-Indian, Classical",
+    "ECO":"E36",
+    "Opening":"Nimzo-Indian - Classical",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3"
   },
   {
-    "ECO code":"E37",
-    "Opening":"Nimzo-Indian, Classical",
+    "ECO":"E37",
+    "Opening":"Nimzo-Indian - Classical",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3 Bxc3+ 6 Qxc3 Ne4 7 Qc2"
   },
   {
-    "ECO code":"E38",
-    "Opening":"Nimzo-Indian, Classical, 4...c5",
+    "ECO":"E38",
+    "Opening":"Nimzo-Indian - Classical - 4...c5",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5"
   },
   {
-    "ECO code":"E39",
-    "Opening":"Nimzo-Indian, Classical, Pirc Variation",
+    "ECO":"E39",
+    "Opening":"Nimzo-Indian - Classical - Pirc Variation",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5 5 dxc5 O-O"
   },
   {
-    "ECO code":"E40",
-    "Opening":"Nimzo-Indian, 4.e3",
+    "ECO":"E40",
+    "Opening":"Nimzo-Indian - 4.e3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3"
   },
   {
-    "ECO code":"E41",
+    "ECO":"E41",
     "Opening":"Nimzo-Indian",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5"
   },
   {
-    "ECO code":"E42",
-    "Opening":"Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)",
+    "ECO":"E42",
+    "Opening":"Nimzo-Indian - 4.e3 c5 - 5.Ne2 (Rubinstein)",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5 5 Ne2"
   },
   {
-    "ECO code":"E43",
-    "Opening":"Nimzo-Indian, Fischer Variation",
+    "ECO":"E43",
+    "Opening":"Nimzo-Indian - Fischer Variation",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6"
   },
   {
-    "ECO code":"E44",
-    "Opening":"Nimzo-Indian, Fischer Variation, 5.Ne2",
+    "ECO":"E44",
+    "Opening":"Nimzo-Indian - Fischer Variation - 5.Ne2",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2"
   },
   {
-    "ECO code":"E45",
-    "Opening":"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",
+    "ECO":"E45",
+    "Opening":"Nimzo-Indian - 4.e3 - Bronstein (Byrne) Variation",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2 Ba6"
   },
   {
-    "ECO code":"E46",
+    "ECO":"E46",
     "Opening":"Nimzo-Indian",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O"
   },
   {
-    "ECO code":"E47",
-    "Opening":"Nimzo-Indian, 4.e3 O-O 5.Bd3",
+    "ECO":"E47",
+    "Opening":"Nimzo-Indian - 4.e3 O-O 5.Bd3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3"
   },
   {
-    "ECO code":"E48",
-    "Opening":"Nimzo-Indian, 4.e3 O-O 5.Bd3 d5",
+    "ECO":"E48",
+    "Opening":"Nimzo-Indian - 4.e3 O-O 5.Bd3 d5",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5"
   },
   {
-    "ECO code":"E49",
-    "Opening":"Nimzo-Indian, 4.e3, Botvinnik System",
+    "ECO":"E49",
+    "Opening":"Nimzo-Indian - 4.e3 - Botvinnik System",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5 6 a3 Bxc3+ 7 bxc3"
   },
   {
-    "ECO code":"E50",
-    "Opening":"Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5",
+    "ECO":"E50",
+    "Opening":"Nimzo-Indian - 4.e3 O-O 5.Nf3 - without ...d5",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3"
   },
   {
-    "ECO code":"E51",
-    "Opening":"Nimzo-Indian, 4.e3",
+    "ECO":"E51",
+    "Opening":"Nimzo-Indian - 4.e3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5"
   },
   {
-    "ECO code":"E52",
-    "Opening":"Nimzo-Indian, 4.e3, Main line with ...b6",
+    "ECO":"E52",
+    "Opening":"Nimzo-Indian - 4.e3 - Main line with ...b6",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 b6"
   },
   {
-    "ECO code":"E53",
-    "Opening":"Nimzo-Indian, 4.e3",
+    "ECO":"E53",
+    "Opening":"Nimzo-Indian - 4.e3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5"
   },
   {
-    "ECO code":"E54",
-    "Opening":"Nimzo-Indian, 4.e3, Gligoric System",
+    "ECO":"E54",
+    "Opening":"Nimzo-Indian - 4.e3 - Gligoric System",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4"
   },
   {
-    "ECO code":"E55",
-    "Opening":"Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation",
+    "ECO":"E55",
+    "Opening":"Nimzo-Indian - 4.e3 - Gligoric System - Bronstein Variation",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4 Nbd7"
   },
   {
-    "ECO code":"E56",
-    "Opening":"Nimzo-Indian, 4.e3, Main line with 7...Nc6",
+    "ECO":"E56",
+    "Opening":"Nimzo-Indian - 4.e3 - Main line with 7...Nc6",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6"
   },
   {
-    "ECO code":"E57",
-    "Opening":"Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd",
+    "ECO":"E57",
+    "Opening":"Nimzo-Indian - 4.e3 - Main line with 8...dc and 9...cd",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 dxc4 9 Bxc4"
   },
   {
-    "ECO code":"E58",
-    "Opening":"Nimzo-Indian, 4.e3, Main line with 8...Bxc3",
+    "ECO":"E58",
+    "Opening":"Nimzo-Indian - 4.e3 - Main line with 8...Bxc3",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3"
   },
   {
-    "ECO code":"E59",
-    "Opening":"Nimzo-Indian, 4.e3, Main line",
+    "ECO":"E59",
+    "Opening":"Nimzo-Indian - 4.e3 - Main line",
     "Moves":"1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3 dxc4 10 Bxc4"
   },
   {
-    "ECO code":"E60",
+    "ECO":"E60",
     "Opening":"King's Indian Defense",
     "Moves":"1 d4 Nf6 2 c4 g6"
   },
   {
-    "ECO code":"E61",
+    "ECO":"E61",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3"
   },
   {
-    "ECO code":"E62",
-    "Opening":"King's Indian, Fianchetto",
+    "ECO":"E62",
+    "Opening":"King's Indian - Fianchetto",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3"
   },
   {
-    "ECO code":"E63",
-    "Opening":"King's Indian, Fianchetto, Panno Variation",
+    "ECO":"E63",
+    "Opening":"King's Indian - Fianchetto - Panno Variation",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nc6 7 O-O a6"
   },
   {
-    "ECO code":"E64",
-    "Opening":"King's Indian, Fianchetto, Yugoslav System",
+    "ECO":"E64",
+    "Opening":"King's Indian - Fianchetto - Yugoslav System",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5"
   },
   {
-    "ECO code":"E65",
-    "Opening":"King's Indian, Fianchetto, Yugoslav, 7.O-O",
+    "ECO":"E65",
+    "Opening":"King's Indian - Fianchetto - Yugoslav - 7.O-O",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O"
   },
   {
-    "ECO code":"E66",
-    "Opening":"King's Indian, Fianchetto, Yugoslav Panno",
+    "ECO":"E66",
+    "Opening":"King's Indian - Fianchetto - Yugoslav Panno",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O Nc6 8 d5"
   },
   {
-    "ECO code":"E67",
-    "Opening":"King's Indian, Fianchetto",
+    "ECO":"E67",
+    "Opening":"King's Indian - Fianchetto",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7"
   },
   {
-    "ECO code":"E68",
-    "Opening":"King's Indian, Fianchetto, Classical Variation, 8.e4",
+    "ECO":"E68",
+    "Opening":"King's Indian - Fianchetto - Classical Variation - 8.e4",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4"
   },
   {
-    "ECO code":"E69",
-    "Opening":"King's Indian, Fianchetto, Classical Main line",
+    "ECO":"E69",
+    "Opening":"King's Indian - Fianchetto - Classical Main line",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4 c6 9 h3"
   },
   {
-    "ECO code":"E70",
+    "ECO":"E70",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4"
   },
   {
-    "ECO code":"E71",
-    "Opening":"King's Indian, Makagonov System (5.h3)",
+    "ECO":"E71",
+    "Opening":"King's Indian - Makagonov System (5.h3)",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 h3"
   },
   {
-    "ECO code":"E72",
+    "ECO":"E72",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 g3"
   },
   {
-    "ECO code":"E73",
+    "ECO":"E73",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2"
   },
   {
-    "ECO code":"E74",
-    "Opening":"King's Indian, Averbakh, 6...c5",
+    "ECO":"E74",
+    "Opening":"King's Indian - Averbakh - 6...c5",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5"
   },
   {
-    "ECO code":"E75",
-    "Opening":"King's Indian, Averbakh, Main line",
+    "ECO":"E75",
+    "Opening":"King's Indian - Averbakh - Main line",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5 7 d5 e6"
   },
   {
-    "ECO code":"E76",
-    "Opening":"King's Indian, Four Pawns Attack",
+    "ECO":"E76",
+    "Opening":"King's Indian - Four Pawns Attack",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4"
   },
   {
-    "ECO code":"E77",
+    "ECO":"E77",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2"
   },
   {
-    "ECO code":"E78",
-    "Opening":"King's Indian, Four Pawns Attack, with Be2 and Nf3",
+    "ECO":"E78",
+    "Opening":"King's Indian - Four Pawns Attack - with Be2 and Nf3",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3"
   },
   {
-    "ECO code":"E79",
-    "Opening":"King's Indian, Four Pawns Attack, Main line",
+    "ECO":"E79",
+    "Opening":"King's Indian - Four Pawns Attack - Main line",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3 cxd4 8 Nxd4 Nc6 9 Be3"
   },
   {
-    "ECO code":"E80",
-    "Opening":"King's Indian, Samisch Variation",
+    "ECO":"E80",
+    "Opening":"King's Indian - Samisch Variation",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3"
   },
   {
-    "ECO code":"E81",
-    "Opening":"King's Indian, Samisch",
+    "ECO":"E81",
+    "Opening":"King's Indian - Samisch",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O"
   },
   {
-    "ECO code":"E82",
-    "Opening":"King's Indian, Samisch, double Fianchetto Variation",
+    "ECO":"E82",
+    "Opening":"King's Indian - Samisch - double Fianchetto Variation",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 b6"
   },
   {
-    "ECO code":"E83",
-    "Opening":"King's Indian, Samisch",
+    "ECO":"E83",
+    "Opening":"King's Indian - Samisch",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6"
   },
   {
-    "ECO code":"E84",
-    "Opening":"King's Indian, Samisch, Panno Main line",
+    "ECO":"E84",
+    "Opening":"King's Indian - Samisch - Panno Main line",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6 7 Nge2 a6 8 Qd2 Rb8"
   },
   {
-    "ECO code":"E85",
-    "Opening":"King's Indian, Samisch, Orthodox Variation",
+    "ECO":"E85",
+    "Opening":"King's Indian - Samisch - Orthodox Variation",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5"
   },
   {
-    "ECO code":"E86",
-    "Opening":"King's Indian, Samisch, Orthodox, 7.Nge2 c6",
+    "ECO":"E86",
+    "Opening":"King's Indian - Samisch - Orthodox - 7.Nge2 c6",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 Nge2 c6"
   },
   {
-    "ECO code":"E87",
-    "Opening":"King's Indian, Samisch, Orthodox",
+    "ECO":"E87",
+    "Opening":"King's Indian - Samisch - Orthodox",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5"
   },
   {
-    "ECO code":"E88",
-    "Opening":"King's Indian, Samisch, Orthodox, 7.d5 c6",
+    "ECO":"E88",
+    "Opening":"King's Indian - Samisch - Orthodox - 7.d5 c6",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6"
   },
   {
-    "ECO code":"E89",
-    "Opening":"King's Indian, Samisch, Orthodox Main line",
+    "ECO":"E89",
+    "Opening":"King's Indian - Samisch - Orthodox Main line",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6 8 Nge2 cxd5"
   },
   {
-    "ECO code":"E90",
+    "ECO":"E90",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3"
   },
   {
-    "ECO code":"E91",
+    "ECO":"E91",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2"
   },
   {
-    "ECO code":"E92",
+    "ECO":"E92",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5"
   },
   {
-    "ECO code":"E93",
-    "Opening":"King's Indian, Petrosian System",
+    "ECO":"E93",
+    "Opening":"King's Indian - Petrosian System",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 d5 Nbd7"
   },
   {
-    "ECO code":"E94",
-    "Opening":"King's Indian, Orthodox",
+    "ECO":"E94",
+    "Opening":"King's Indian - Orthodox",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O"
   },
   {
-    "ECO code":"E95",
-    "Opening":"King's Indian, Orthodox, 7...Nbd7, 8.Re1",
+    "ECO":"E95",
+    "Opening":"King's Indian - Orthodox - 7...Nbd7 - 8.Re1",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1"
   },
   {
-    "ECO code":"E96",
-    "Opening":"King's Indian, Orthodox, 7...Nbd7, Main line",
+    "ECO":"E96",
+    "Opening":"King's Indian - Orthodox - 7...Nbd7 - Main line",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1 c6 9 Bf1 a5"
   },
   {
-    "ECO code":"E97",
+    "ECO":"E97",
     "Opening":"King's Indian",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6"
   },
   {
-    "ECO code":"E98",
-    "Opening":"King's Indian, Orthodox, Taimanov, 9.Ne1",
+    "ECO":"E98",
+    "Opening":"King's Indian - Orthodox - Taimanov - 9.Ne1",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1"
   },
   {
-    "ECO code":"E99",
-    "Opening":"King's Indian, Orthodox, Taimanov",
+    "ECO":"E99",
+    "Opening":"King's Indian - Orthodox - Taimanov",
     "Moves":"1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1 Nd7 10 f3 f5"
   }
 ]
