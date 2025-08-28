@@ -12,6 +12,7 @@ def load_pgn_games(pgn_path, max_games=None, min_elo=1700):
             game = chess.pgn.read_game(pgn_file)
             if game is None:
                 break
+            
             # Filtering unkown or broken data
             for field in required_fields:
                 value = game.headers.get(field)

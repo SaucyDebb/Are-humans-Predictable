@@ -14,3 +14,9 @@ output_json_path = os.path.join(output_dir, "parsed_games.json")
 games = load_pgn_games(pgn_path, max_games=100)  # You can adjust max_games
 save_games_to_json(games, output_json_path)
 print(f"✅ Parsed {len(games)} games and saved to {output_json_path}")
+
+from eco_remapping import save_ECO_to_json
+# Create output directory if it doesn't exist
+output_dir = "ECO Mapped"
+os.makedirs(output_dir, exist_ok=True)  # Creates folder if it doesn't exist
+output_json_path = os.path.join(output_dir, "opening_patterns.json")
