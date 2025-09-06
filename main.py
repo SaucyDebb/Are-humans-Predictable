@@ -6,17 +6,27 @@ load_dotenv()
 # obtaining file path from .env file
 pgn_path = os.getenv("PGN_PATH")
 
-from preprocessing_data import load_pgn_games, save_games_to_json
-# Create output directory if it doesn't exist
-output_dir = "Parsed Data"
-os.makedirs(output_dir, exist_ok=True)  # Creates folder if it doesn't exist
-output_json_path = os.path.join(output_dir, "parsed_games.json")
-games = load_pgn_games(pgn_path, max_games=100)  # You can adjust max_games
-save_games_to_json(games, output_json_path)
-print(f"✅ Parsed {len(games)} games and saved to {output_json_path}")
+# Begin preprocessing PGN files
+from preprocessing_pgn import pgn_to_parquet, filter_games, cap_by_eco, dedup
 
-from eco_remapping import save_ECO_to_json
-# Create output directory if it doesn't exist
-output_dir = "ECO Mapped"
-os.makedirs(output_dir, exist_ok=True)  # Creates folder if it doesn't exist
-output_json_path = os.path.join(output_dir, "opening_patterns.json")
+# Step 1: Convert PGN to Parquet
+parquet_path = "/Parquet/games.parquet"
+raw_df = pgn_to_parquet(pgn_path, parquet_path)
+print(f"✅ Converted PGN to Parquet: {parquet_path}, total: {len(raw_df)}")
+
+# Step 2: Filter games based on criteria
+filtered_path = "/Parquet/games_filtered.parquet"
+filtered_df = filter_games(parquet_path, filtered_path)
+print(f"✅ Filtered games: {filtered_path}, remaining: {len(filtered_df)}")
+
+# Step 3: Cap number of games per ECO code to ensure diversity
+capped_path = "/Parquet/games_capped.parquet"
+capped_df = cap_by_eco(filtered_path, capped_path)
+print(f"✅ Capped by ECO: {capped_path}, remaining: {len(capped_df)}")
+
+# Step 4: Remove duplicate games based on fingerprint
+## Useful when parsing multiple PGN files that might contain overlapping games
+deduped_path = "/Parquet/games_deduped.parquet"
+deduped_df = dedup(capped_path, deduped_path)
+print(f"✅ Deduplicated games: {deduped_path}, remaining: {len(deduped_df)}")
+print("All preprocessing steps completed successfully.")
