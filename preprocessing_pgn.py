@@ -1,4 +1,5 @@
 import os
+import time
 import pandas as pd
 import chess.pgn
 
@@ -7,54 +8,83 @@ import chess.pgn
 # However, since we are using a high quality dataset from https://database.nikonoel.fr/
 # which already filtered out low quality games, we only need to cap the number of games per ECO code
 
-def parse_single_pgn(pgn_path, limit=None):
-    rows = []
-    invalid_game = 0
-    with open(pgn_path, 'r', encoding='utf-8') as pgn_file:
-        i, game = 0, chess.pgn.read_game(pgn_file)
-        while game:
-            if not game.headers or len(list(game.mainline_moves())) == 0:
-                invalid_game += 1
-                game = chess.pgn.read_game(pgn_file)
-                continue
-
-            rows.append({
-                "source_path": os.path.basename(pgn_path),
-                "event": game.headers.get("Event", ""),
-                "white": game.headers.get("White", ""),
-                "black": game.headers.get("Black", ""),
-                "whiteelo": int(game.headers.get("WhiteElo", "0") or 0),
-                "blackelo": int(game.headers.get("BlackElo", "0") or 0),
-                "result": game.headers.get("Result", "*"),
-                "timecontrol": game.headers.get("TimeControl", ""),
-                "termination": game.headers.get("Termination", ""),
-                "eco": game.headers.get("ECO", ""),
-                "variant": game.headers.get("Variant", "Standard"),
-                "plycount": game.end().ply()
-            })
-            i += 1
-            if limit and i >= limit:
-                break
-            game = chess.pgn.read_game(pgn_file)
-
-    return rows, invalid_game
-
-def pgn_batch_to_parquet(pgn_folder, parquet_out, limit_per_file=None):
+def pgn_to_parquet(pgn_folder, parquet_out, limit_games=None, log_interval=5000):
     all_rows = []
     total_invalid = 0
-    for filename in os.listdir(pgn_folder):
-        if filename.endswith(".pgn"):
-            pgn_path = os.path.join(pgn_folder, filename)
-            print(f"📂 Parsing {filename}")
-            rows, invalid = parse_single_pgn(pgn_path, limit=limit_per_file)
-            all_rows.extend(rows)
-            total_invalid += invalid
+    game_count = 0
+    start_time = time.time()
+
+    pgn_files = [f for f in os.listdir(pgn_folder) if f.endswith(".pgn")]
+    total_files = len(pgn_files)
+
+    for file_idx, filename in enumerate(sorted(pgn_files), start=1):
+        if limit_games and game_count >= limit_games:
+            break
+
+        pgn_path = os.path.join(pgn_folder, filename)
+        print(f"\n📂 [{file_idx}/{total_files}] Parsing {filename}")
+        file_game_count = 0
+
+        with open(pgn_path, 'r', encoding='utf-8') as pgn_file:
+            i, game = 0, chess.pgn.read_game(pgn_file)
+            while game:
+                if limit_games and game_count >= limit_games:
+                    break
+
+                if not game.headers or len(list(game.mainline_moves())) == 0:
+                    total_invalid += 1
+                    game = chess.pgn.read_game(pgn_file)
+                    continue
+
+                moves_uci = [move.uci() for move in game.mainline_moves()]
+                all_rows.append({
+                    "source_path": filename,
+                    "event": game.headers.get("Event", ""),
+                    "white": game.headers.get("White", ""),
+                    "black": game.headers.get("Black", ""),
+                    "whiteelo": int(game.headers.get("WhiteElo", "0") or 0),
+                    "blackelo": int(game.headers.get("BlackElo", "0") or 0),
+                    "result": game.headers.get("Result", "*"),
+                    "timecontrol": game.headers.get("TimeControl", ""),
+                    "termination": game.headers.get("Termination", ""),
+                    "eco": game.headers.get("ECO", ""),
+                    "variant": game.headers.get("Variant", "Standard"),
+                    "plycount": game.end().ply(),
+                    "game_id": f"{filename}_{i}",
+                    "moves_uci": moves_uci
+                })
+
+                game_count += 1
+                file_game_count += 1
+                i += 1
+
+                if game_count % log_interval == 0:
+                    elapsed = time.time() - start_time
+                    games_per_sec = game_count / elapsed
+                    remaining_games = limit_games - game_count if limit_games else "?"
+                    eta_str = (
+                        f"ETA: {remaining_games / games_per_sec / 60:.1f} min"
+                        if isinstance(remaining_games, int) and games_per_sec > 0
+                        else "ETA: unknown"
+                    )
+                    print(
+                        f"[{elapsed/60:.1f} min] "
+                        f"Total: {game_count:,} games | "
+                        f"Current file: {file_game_count:,} games | "
+                        f"{eta_str}",
+                        flush=True
+                    )
+
+                game = chess.pgn.read_game(pgn_file)
+
+        print(f"✅ Finished {filename} — {file_game_count:,} games processed.")
 
     df = pd.DataFrame(all_rows)
     df.to_parquet(parquet_out, index=False)
-    print(f"✅ Saved {len(df)} games to {parquet_out}")
+    elapsed = time.time() - start_time
+    print(f"🎯 Done: {game_count:,} games saved to {parquet_out} in {elapsed/60:.1f} min.\n")
     if total_invalid > 0:
-        print(f"⚠️ Skipped {total_invalid} invalid or empty games.")
+        print(f"⚠️ Skipped {total_invalid:,} invalid or empty games.")
     return df
 
 import re
