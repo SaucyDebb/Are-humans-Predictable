@@ -28,7 +28,7 @@ pgn_path = os.getenv("PGN_PATH")
 # print(f"✅ Step 2: Filtered games: {filtered_path}, remaining: {len(filtered_df)}")
 
 # # Step 3: Cap number of games per ECO code to ensure diversity
-capped_path = "Parquet Files/games_capped.parquet"
+# capped_path = "Parquet Files/games_capped.parquet"
 # capped_df = cap_by_eco(filtered_path, capped_path)
 # print(f"✅ Step 3: Capped by ECO: {capped_path}, remaining: {len(capped_df)}")
 
@@ -56,7 +56,6 @@ capped_path = "Parquet Files/games_capped.parquet"
 
 # Quick sanity check on extracted positions
 print("Performing sanity check on extracted positions...\n")
-df = pd.read_parquet("FEN MOVES/1MilGames_fen.parquet")
-df = pd.read_parquet(capped_path)
-print(df["eco"].head(10))
-print(df["eco"].value_counts().head(10))
+df = pd.read_parquet("FEN MOVES/fen_moves_500k.parquet")
+print(df["ply"].describe())
+print(df["eco"].value_counts().head(20))
