@@ -3,7 +3,8 @@ A model that is **Learning People**, Not Just the Game.
 
 Unlike advanced engines built to crush opponents with perfect play, this model is trained to understand human decision‑making patterns — the common moves, predictable choices, and mistakes we make under pressure.
 Its goal isn’t to “win at all costs,” but to reveal why we make certain moves, so players can learn from their own tendencies and improve.
-It’s chess as a mirror — not a machine.
+It’s chess as a mirror — not a machine. P.S kindly refer to the page below for more of my findings :)
+https://github.com/SaucyDebb/Are-humans-Predictable/wiki/Author%E2%80%99s-Thoughts
 
 Inspired by Friday, Tony Stark’s AI assistant in Avengers: Civil War, this project explores predictive modeling through the lens of strategic gameplay. From a scene, where Friday analyzes Captain America's fighting patterns and feeds Tony countermeasures in real time. That concept sparked the initial idea: an AI that could anticipate and counter human behavior.
 
