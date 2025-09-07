@@ -2,6 +2,11 @@ import os
 import pandas as pd
 import chess.pgn
 
+# The main purpose of preprocessing the PGN file is to filtered out low quality games
+# and ensure diversity in the dataset.
+# However, since we are using a high quality dataset from https://database.nikonoel.fr/
+# which already filtered out low quality games, we only need to cap the number of games per ECO code
+
 def parse_single_pgn(pgn_path, limit=None):
     rows = []
     invalid_game = 0
