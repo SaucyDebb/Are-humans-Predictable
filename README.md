@@ -1,5 +1,6 @@
 # Are-humans-Predictable
-A model that is **Learning People**, Not Just the Game
+A model that is **Learning People**, Not Just the Game.
+
 Unlike advanced engines built to crush opponents with perfect play, this model is trained to understand human decision‑making patterns — the common moves, predictable choices, and mistakes we make under pressure.
 Its goal isn’t to “win at all costs,” but to reveal why we make certain moves, so players can learn from their own tendencies and improve.
 It’s chess as a mirror — not a machine.
