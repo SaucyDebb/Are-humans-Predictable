@@ -11,7 +11,7 @@ pgn_path = os.getenv("PGN_PATH")
 # from preprocessing_pgn import filter_games, cap_by_eco, pgn_to_parquet
 # print("Starting PGN preprocessing...")
 # # Step 1: Convert PGN to Parquet
-# parquet_path = "Parquet/games.parquet"
+# parquet_path = "Parquet Files/games.parquet"
 # raw_df = pgn_to_parquet(
 #     pgn_folder=pgn_path,           # folder containing all your PGNs
 #     parquet_out=parquet_path,
@@ -23,12 +23,12 @@ pgn_path = os.getenv("PGN_PATH")
 # print(f"✅ Step 1: Converted PGN to Parquet: {parquet_path}, total: {len(raw_df)}")
 
 # # Step 2: Filter games based on criteria
-# filtered_path = "Parquet/games_filtered.parquet"
+# filtered_path = "Parquet Files/games_filtered.parquet"
 # filtered_df = filter_games(parquet_path, filtered_path)
 # print(f"✅ Step 2: Filtered games: {filtered_path}, remaining: {len(filtered_df)}")
 
 # # Step 3: Cap number of games per ECO code to ensure diversity
-capped_path = "Parquet/games_capped.parquet"
+capped_path = "Parquet Files/games_capped.parquet"
 # capped_df = cap_by_eco(filtered_path, capped_path)
 # print(f"✅ Step 3: Capped by ECO: {capped_path}, remaining: {len(capped_df)}")
 
@@ -37,26 +37,26 @@ capped_path = "Parquet/games_capped.parquet"
 #
 # # Step 4: Remove duplicate games based on fingerprint
 # ## Useful when parsing multiple PGN files that might contain overlapping games
-# deduped_path = "Parquet/games_deduped.parquet"
+# deduped_path = "Parquet Files/games_deduped.parquet"
 # deduped_df = dedup(capped_path, deduped_path)
 # print(f"✅ Step 4: Deduplicated games: {deduped_path}, remaining: {len(deduped_df)}")
 # print("All preprocessing steps completed successfully.")
 
 # Next step: Extract positions from the processed PGN file
-from extract_fen import extract_fen
-df_positions = extract_fen(
-    parquet_in=capped_path,           # folder containing all your PGNs
-    parquet_out="FEN MOVES/1MilGames_fen.parquet",
-    log_interval=50000,  # log progress every N games
-    # limit_games=2717093  # maximum games in the capped dataset/final dataset
-    limit_games=1000000  # optional: cap total games processed
-)
+# from extract_fen import extract_fen
+# print("Starting FEN extraction...")
+# extracted_fen = extract_fen(
+#     parquet_in=capped_path,           # folder containing all your PGNs
+#     parquet_folder="FEN MOVES",
+#     log_interval=60000,  # log progress every N games
+#     # limit_games=2717093  # maximum games in the capped dataset/final dataset
+#     limit_games=500000  # optional: cap total games processed
+# )
+# print(f"✅ FEN extraction completed, total file extracted: {extracted_fen}")
 
 # Quick sanity check on extracted positions
-df = pd.read_parquet("FEN MOVES/games_fen.parquet")
-import chess
-def is_legal(fen, move):
-    board = chess.Board(fen)
-    return chess.Move.from_uci(move) in board.legal_moves
-
-print(df.head(100).apply(lambda r: is_legal(r['fen'], r['move_uci']), axis=1).all())
+print("Performing sanity check on extracted positions...\n")
+df = pd.read_parquet("FEN MOVES/1MilGames_fen.parquet")
+df = pd.read_parquet(capped_path)
+print(df["eco"].head(10))
+print(df["eco"].value_counts().head(10))
