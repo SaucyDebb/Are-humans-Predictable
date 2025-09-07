@@ -36,10 +36,15 @@ pgn_path = os.getenv("PGN_PATH")
 # print("All preprocessing steps completed successfully.")
 
 # Next step: Extract positions from the processed PGN file
-from extract_fen import extract_fen
-df_positions = extract_fen(
-    pgn_folder=pgn_path,           # folder containing all your PGNs
-    parquet_out="Parquet/games_fen.parquet",
-    log_interval=1000,  # log progress every N games
-    limit_games=200000  # optional: cap total games processed
-)
+# from extract_fen import extract_fen
+# df_positions = extract_fen(
+#     pgn_folder=pgn_path,           # folder containing all your PGNs
+#     parquet_out="Parquet/games_fen.parquet",
+#     log_interval=1000,  # log progress every N games
+#     limit_games=200000  # optional: cap total games processed
+# )
+
+import pandas as pd
+df = pd.read_parquet("FEN MOVES/games_fen.parquet")
+print(df.shape)        # rows = positions, columns = features
+print(df.head(5))      # quick look at structure
